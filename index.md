@@ -5,8 +5,8 @@ title: Ioannis P. A. Papadopoulos
 &nbsp;
 &nbsp;
 
-I am a [Research Associate](https://www.maths.ox.ac.uk/people/patrick.farrell) in the
-Numerical Analysis group at <a href="https://www.imperial.ac.uk/people/ioannis.papadopoulos13">Imperial College London</a>.
+I am a [Research Associate](https://www.imperial.ac.uk/people/ioannis.papadopoulos13) in the
+Numerical Analysis group at Imperial College London.
 
 I work on the numerical
 solution of partial differential equations, with a particular focus on
