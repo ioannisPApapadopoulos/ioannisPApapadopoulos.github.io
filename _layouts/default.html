@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+    <script src="https://kit.fontawesome.com/16c9e24150.js" crossorigin="anonymous"></script>
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="{{ "/" | absolute_url }}" class="iwantyoubold">{{ site.title | default: site.github.repository_name }}</a></h1>
+
+        {% if site.logo %}
+          <img src="{{site.logo | relative_url}}" alt="Logo" />
+        {% endif %}
+
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
+
+        {% if site.github.is_project_page %}
+        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
+        {% endif %}
+
+        {% if site.github.is_user_page %}
+        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
+        {% endif %}
+
+        <h3><a href="{{ "/people" | absolute_url }}" class="iwantyoubold">People</a></h3>
+        <h3><a href="{{ "/teaching" | absolute_url }}" class="iwantyoubold">Teaching</a></h3>
+        <h3><a href="{{ "/files/cv.pdf" | absolute_url }}" class="iwantyoubold">CV & publication list</a>  &nbsp;&nbsp; <br/><small>(updated 2023-06-13)</small></h3>
+
+        {% if site.show_downloads %}
+        <ul class="downloads">
+          <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
+          <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
+          <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
+        </ul>
+        {% endif %}
+      </header>
+      <section>
+
+      {{ content }}
+
+      </section>
+      <footer>
+        {% if site.github.is_project_page %}
+        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        {% endif %}
+
+        <ul>
+        <li><a href="mailto:patrick.farrell@maths.ox.ac.uk"><i class="far fa-envelope"></i></a> <a href="mailto:patrick.farrell@maths.ox.ac.uk">patrick.farrell@maths.ox.ac.uk</a>
+        <li><a href="tel:+44-1865-270743"><i class="fas fa-phone"></i></a> <a href="tel:+44-1865-270743">+44 1865 270743</a>
+        <li><a href="https://bitbucket.org/pefarrell"><i class="fab fa-bitbucket"></i></a> <a href="https://bitbucket.org/pefarrell">pefarrell</a>
+        <li><a href="https://github.com/pefarrell"><i class="fab fa-github"></i></a> <a href="https://github.com/pefarrell">pefarrell</a>
+        <li><a href="https://orcid.org/0000-0002-1241-7060"><i class="fab fa-orcid"></i></a> <a href="https://orcid.org/0000-0002-1241-7060">0000-0002-1241-7060</a>
+        <li><a href="https://scholar.google.co.uk/citations?user=fTo6lckAAAAJ&hl=en"><i class="fab fa-google"></i></a> <a href="https://scholar.google.co.uk/citations?user=fTo6lckAAAAJ&hl=en">scholar</a>
+        </ul>
+      </footer>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    {% if site.google_analytics %}
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      ga('create', '{{ site.google_analytics }}', 'auto');
+      ga('send', 'pageview');
+    </script>
+    {% endif %}
+  </body>
+</html>
