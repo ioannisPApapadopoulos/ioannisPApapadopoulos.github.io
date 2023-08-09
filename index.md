@@ -6,7 +6,7 @@ title: Ioannis P. A. Papadopoulos
 &nbsp;
 
 I am a [Research Associate](https://www.maths.ox.ac.uk/people/patrick.farrell) in the
-Numerical Analysis group at Imperial College London.
+Numerical Analysis group at <a href="https://www.imperial.ac.uk/people/ioannis.papadopoulos13">Imperial College London</a>.
 
 I work on the numerical
 solution of partial differential equations, with a particular focus on
@@ -26,8 +26,8 @@ commit to Julia packages in
 
 <h2 id="forthcoming">Forthcoming</h2>
 
-<p>2023-11-14: I will become a Dirichlet postdoctoral fellow based in the  <a href="https://icerm.brown.edu/programs/sp-s24/">Weierstrass Institute</a>.</p>
+<p>2023-11-14: I will become a <a href="https://www.math-berlin.de/bms-faculty/dirichlet-postdoctoral-program">Dirichlet postdoctoral fellow</a> based in the  <a href="https://www.wias-berlin.de/">Weierstrass Institute</a>.</p>
 
 <h2 id="news">News</h2>
 
-<p>2023-06-26: I won second place in the Leslie-Fox prize competition.</p>
+<p>2023-06-26: I won second place in the <a href="https://ima.org.uk/awards-medals/ima-leslie-fox-prize-numerical-analysis/">Leslie-Fox prize competition</a>.</p>
