@@ -5,14 +5,14 @@ title: Ioannis P. A. Papadopoulos
 &nbsp;
 &nbsp;
 
-I am a [Research Associate](https://www.imperial.ac.uk/people/ioannis.papadopoulos13) in the
+I am a [Research Associate](https://www.imperial.ac.uk/people/ioannis.papadopoulos13) (postdoc) in the
 Numerical Analysis group at Imperial College London.
 
 I work on the numerical
 solution of partial differential equations, with a particular focus on
 
  - finite element methods,
- - high-order spectral element methods,
+ - high-order spectral/hp-finite element methods,
  - topology optimization,
  - computing multiple solutions of nonlinear PDEs.
 
@@ -24,7 +24,7 @@ I lead the development of
 commit to Julia packages in
 [JuliaApproximation](https://github.com/JuliaApproximation).
 
-I have collected a number of self-contained codes for deflation techniques of computing multiple solutions of nonlinear discretized PDEs/systems in a [repository](https://github.com/ioannisPApapadopoulos/Deflation)
+I have collected a number of self-contained codes in MATLAB, Python, and Julia of deflation techniques for computing multiple solutions of nonlinear discretized PDEs/systems in a [Github repository](https://github.com/ioannisPApapadopoulos/Deflation).
 
 <h2 id="forthcoming">Forthcoming</h2>
 
@@ -36,7 +36,7 @@ I have collected a number of self-contained codes for deflation techniques of co
 
 <p>2023-08-14: I gave a talk in the <a href="https://21stcenturyna.github.io/">Numerical Analysis in the 21st Century</a> conference in honour of Nick Trefethen's retirement from Oxford. I spoke on sparse hp-FEM and SEM for the Helmholtz equation posed on disks and annuli.</p>
 
-<p>2023-07-24: I gave a talk in the <a href="https://17.usnccm.org/">USNCCM17 conference</a> in Albuquerque, New Mexico, computing multiple solutions of topology optimization problems. <a href="{{ "/files/dbm.pdf" | absolute_url }}">Click for slides</a>.</p>
+<p>2023-07-24: I gave a talk in the <a href="https://17.usnccm.org/">USNCCM17 conference</a> in Albuquerque, New Mexico, on computing multiple solutions of topology optimization problems. <a href="{{ "/files/dbm.pdf" | absolute_url }}">Click for slides</a>.</p>
 
 <p>2023-07-21: I visited <a href="https://danfortunato.com/">Dan Fortunato</a> in the Flatiron Institute in NYC and gave a talk on sparse hp-FEM methods for the Helmholtz equation.</p>
 
