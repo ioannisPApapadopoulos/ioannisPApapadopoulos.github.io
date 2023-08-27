@@ -30,4 +30,6 @@ commit to Julia packages in
 
 <h2 id="news">News</h2>
 
-<p>2023-06-26: I won second place in the <a href="https://ima.org.uk/awards-medals/ima-leslie-fox-prize-numerical-analysis/">Leslie-Fox prize competition</a>.</p>
+<p>2023-08-24: I gave a talk in ICIAM 2023 in Tokyo, Japan on sparse spectral methods for fractional PDEs. <a href="{{ "/files/SumSpaces.pdf" | absolute_url }}">slides</a>.</p>
+
+<p>2023-06-26: I won second place in the <a href="https://ima.org.uk/awards-medals/ima-leslie-fox-prize-numerical-analysis/">Leslie-Fox prize competition</a>.<a href="{{ "/files/NAofBP.pdf" | absolute_url }}">slides</a>.</p>
