@@ -26,6 +26,16 @@ commit to Julia packages in
 
 I have collected a number of self-contained codes in MATLAB, Python, and Julia of deflation techniques for computing multiple solutions of nonlinear discretized PDEs/systems in a [Github repository](https://github.com/ioannisPApapadopoulos/Deflation).
 
+<h2 id="noteableprizes">Noteable Prizes</h2>
+
+ - IMA Leslie Fox Prize in Numerical Analysis, second place (2023).
+ - Durham Prize, awarded by Keble College for performance during an MSc (2017). 
+ - Gerald Whitrow Prize, awarded for excellence during the final undergraduate
+examinations (2016). 
+ - Dean's List, awarded to the top 10% of the cohort (2016).
+ - London Mathematical Society undergraduate research bursary (2015).
+
+
 <h2 id="forthcoming">Forthcoming</h2>
 
 <p>14 Nov 2023: I will become a <a href="https://www.math-berlin.de/bms-faculty/dirichlet-postdoctoral-program">Dirichlet postdoctoral fellow</a> based in the  <a href="https://www.wias-berlin.de/">Weierstrass Institute</a>.</p>
