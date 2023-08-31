@@ -80,6 +80,6 @@ structure.</p>
 
 <p>7 Dec 2021: I received my Leave to Supplicate from the University of Oxford. I officially hold a DPhil (PhD).</p>
 
-<p>24 Sep 2021: I passed my DPhil (PhD) with minor corrections!</p>
+<p>24 Sep 2021: I passed my DPhil (PhD) viva with minor corrections!</p>
 
 <p>1 Jul 2021: I have started as a research assistant at Imperial College London working in the group of <a href="https://www.imperial.ac.uk/people/s.olver">Dr Sheehan Olver</a>.</p>
