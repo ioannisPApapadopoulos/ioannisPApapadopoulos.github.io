@@ -66,3 +66,12 @@ examinations (2016).
 <p>2 Mar 2023: I gave a talk in <a href="https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=75527">CSE23</a> in Amsterdam, Netherlands, on sparse spectral methods for fractional PDEs. <a href="{{ "/files/SumSpace.pdf" | absolute_url }}">Click for slides</a>.</p>
 
 <p>2 Mar 2023: I organised a minisymposium of 8 speakers on "Applications & Implementations of Fast Spectral Methods" in <a href="https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=75527">CSE23</a> in Amsterdam, Netherlands.</p>
+
+<p>16 Nov 2022: I gave a talk in the IC-UCL numerical analysis seminar at UCL, UK, on the numerical analysis of a topology optimizationproblem for the compliance of a linearly elastic
+structure.</p>
+
+<p>20 Oct 2022: I was an invited speaker in the Applied Mathematics seminar in Leicester University, UK and spoke on sparse spectral methods for fractional PDEs. <a href="{{ "/files/SumSpace.pdf" | absolute_url }}">Click for slides</a>.</p
+
+<p>20 Sep 2022: I gave a talk in the second numerical analysis and acoustics workshop, held at Imperial College London, on sparse spectral methods for fractional PDEs. <a href="{{ "/files/SumSpace.pdf" | absolute_url }}">Click for slides</a>.</p>
+
+<p>15 Aug 2022: I gave a talk in the <a href="https://jahrestagung.gamm-ev.de/annual-meeting-2022/program/programme/">GAMM 2022 conference</a> in Aachen, Germany on computing multiple solutions of topology optimization problems as part of a Young Researchers Minisymposium. <a href="{{ "/files/dbm.pdf" | absolute_url }}">Click for slides</a>.</p>
