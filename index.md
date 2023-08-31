@@ -75,3 +75,11 @@ structure.</p>
 <p>20 Sep 2022: I gave a talk in the second numerical analysis and acoustics workshop, held at Imperial College London, on sparse spectral methods for fractional PDEs. <a href="{{ "/files/SumSpace.pdf" | absolute_url }}">Click for slides</a>.</p>
 
 <p>15 Aug 2022: I gave a talk in the <a href="https://jahrestagung.gamm-ev.de/annual-meeting-2022/program/programme/">GAMM 2022 conference</a> in Aachen, Germany on computing multiple solutions of topology optimization problems as part of a Young Researchers Minisymposium. <a href="{{ "/files/dbm.pdf" | absolute_url }}">Click for slides</a>.</p>
+
+<p>19 Jul 2022: I gave an invited talk in the PDE CDT reunion conference in Oxford, UK, on sparse spectral methods for fractional PDEs. <a href="{{ "/files/SumSpace.pdf" | absolute_url }}">Click for slides</a>.</p>
+
+<p>7 Dec 2021: I received my Leave to Supplicate from the University of Oxford. I officially hold a DPhil (PhD).</p>
+
+<p>24 Sep 2021: I passed my DPhil (PhD) with minor corrections!</p>
+
+<p>1 Jul 2021: I have started as a research assistant at Imperial College London working in the group of <a href="https://www.imperial.ac.uk/people/s.olver">Dr Sheehan Olver</a>.</p>
