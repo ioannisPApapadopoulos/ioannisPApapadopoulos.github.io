@@ -1,12 +1,14 @@
-using ClassicalOrthogonalPolynomials, LinearAlgebra
+using ClassicalOrthogonalPolynomials, LinearAlgebra, ForwardDiff
 import ClassicalOrthogonalPolynomials: Vcat, Hcat
+import ForwardDiff: hessian
 
 N = 20 # truncation degree (+1)
 T = ChebyshevT()
 C = Ultraspherical(2)
 
-f(x) = exp(x^2) * sin(x)
-𝐟 = C \ f.(axes(C,1))
+u(x) = exp(x^2) * sin(x) * (1-x^2) # solution
+f(x) =  -exp(x^2) * (4*x^3*cos(x) + (4x^4 + 5x^2 + 1) *sin(x)) # rhs
+𝐟 = Vcat(0.0, 0.0, C \ f.(axes(C,1))) # coefficient vector + bcs
 
 dx = Derivative(axes(T,1))
 
@@ -18,6 +20,10 @@ Aₙ = Vcat(T[begin, :]', T[end, :]', D)[1:N+2, 1:N]
 
 # Ultraspherical system
 𝐮 =  Aₙ[1:N, 1:N] \ 𝐟[1:N]
+
+# Check solution
+xx = -1:0.01:1
+T[xx, 1:N] * 𝐮 ≈ u.(xx)
 
 # via equivalent tau-method
 # we see that the column nullspace gives us the ultraspherical choice of τ-functions
