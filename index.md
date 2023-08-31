@@ -70,7 +70,7 @@ examinations (2016).
 <p>16 Nov 2022: I gave a talk in the IC-UCL numerical analysis seminar at UCL, UK, on the numerical analysis of a topology optimizationproblem for the compliance of a linearly elastic
 structure.</p>
 
-<p>20 Oct 2022: I was an invited speaker in the Applied Mathematics seminar in Leicester University, UK and spoke on sparse spectral methods for fractional PDEs. <a href="{{ "/files/SumSpace.pdf" | absolute_url }}">Click for slides</a>.</p
+<p>20 Oct 2022: I was an invited speaker in the Applied Mathematics seminar in Leicester University, UK and spoke on sparse spectral methods for fractional PDEs. <a href="{{ "/files/SumSpace.pdf" | absolute_url }}">Click for slides</a>.</p>
 
 <p>20 Sep 2022: I gave a talk in the second numerical analysis and acoustics workshop, held at Imperial College London, on sparse spectral methods for fractional PDEs. <a href="{{ "/files/SumSpace.pdf" | absolute_url }}">Click for slides</a>.</p>
 
