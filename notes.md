@@ -1,11 +1,11 @@
 ---
-title: Memos
-permalink: /memos/
+title: Notes
+permalink: /notes/
 ---
 
-# Memos
+# Notes
 
-These memos are a collection of personal notes on mathematical topics that I have encountered. They are not peer-reviewed and may contain errors. If you find any, please let me know!
+These are a collection of personal notes on mathematical topics that I have encountered. They are not peer-reviewed and may contain errors. If you find any, please let me know!
 
 <!-- ## Deflation
 
