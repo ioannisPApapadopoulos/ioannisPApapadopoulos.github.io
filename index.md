@@ -40,7 +40,9 @@ examinations (2016).
 
 <p>14 Nov 2023: I will become a <a href="https://www.math-berlin.de/bms-faculty/dirichlet-postdoctoral-program">Dirichlet postdoctoral fellow</a> based in the  <a href="https://www.wias-berlin.de/">Weierstrass Institute</a>.</p>
 
-<p>13 Oct 2023: I am an invited speaker in the numerical analysis seminar in Bath University, UK.</p>
+<p>13 Oct 2023: I am an invited speaker in the numerical analysis seminar at the University of Bath, UK.</p>
+
+<p>10 Oct 2023: I am an invited speaker in the internal numerical analysis seminar at the University of Oxford, UK.</p>
 
 <p>25-26 Sep 2023: I will attend and present at the <a href="https://scoop.iwr.uni-heidelberg.de/events/2023_eucco/">EUCCO 2023</a> conference in Heidelberg, Germany.</p>
 
