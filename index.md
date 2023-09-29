@@ -44,12 +44,10 @@ examinations (2016).
 
 <p>10 Oct 2023: I am an invited speaker in the internal numerical analysis seminar at the University of Oxford, UK.</p>
 
-<p>25-26 Sep 2023: I will attend and present at the <a href="https://scoop.iwr.uni-heidelberg.de/events/2023_eucco/">EUCCO 2023</a> conference in Heidelberg, Germany.</p>
-
-
-
 
 <h2 id="news">News</h2>
+
+<p>25 Sep 2023: I gave a talk in the <a href="https://scoop.iwr.uni-heidelberg.de/events/2023_eucco/">EUCCO 2023 conference</a> in Heidelberg, Germany, on computing multiple solutions of topology optimization problems. <a href="{{ "/files/dbm.pdf" | absolute_url }}">Click for slides</a>.</p>
 
 <p>24 Aug 2023: I gave a talk in <a href="https://iciam2023.org/">ICIAM 2023</a> in Tokyo, Japan, on sparse spectral methods for fractional PDEs. <a href="{{ "/files/SumSpace.pdf" | absolute_url }}">Click for slides</a>.</p>
 
@@ -69,7 +67,8 @@ examinations (2016).
 
 <p>2 Mar 2023: I organised a minisymposium of 8 speakers on "Applications & Implementations of Fast Spectral Methods" in <a href="https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=75527">CSE23</a> in Amsterdam, Netherlands.</p>
 
-<p>16 Nov 2022: I gave a talk in the IC-UCL numerical analysis seminar at UCL, UK, on the numerical analysis of a topology optimizationproblem for the compliance of a linearly elastic
+<p>16 Nov 2022: I gave a talk in the IC-UCL numerical analysis seminar at UCL, UK, on the numerical analysis of a topology optimization
+problem for the compliance of a linearly elastic
 structure.</p>
 
 <p>20 Oct 2022: I was an invited speaker in the Applied Mathematics seminar in Leicester University, UK and spoke on sparse spectral methods for fractional PDEs. <a href="{{ "/files/SumSpace.pdf" | absolute_url }}">Click for slides</a>.</p>
