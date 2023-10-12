@@ -42,10 +42,11 @@ examinations (2016).
 
 <p>13 Oct 2023: I am an invited speaker in the numerical analysis seminar at the University of Bath, UK.</p>
 
-<p>10 Oct 2023: I am an invited speaker in the internal numerical analysis seminar at the University of Oxford, UK.</p>
-
-
 <h2 id="news">News</h2>
+
+<p>11 Oct 2023: Timon S. Gutleb, Richard M. Slevinsky, Sheehan Olver and I submitted a manuscript entitled "Building hierarchies of semiclassical Jacobi polynomials for spectral methods in annuli" (<a href="https://arxiv.org/abs/2310.07541">arXiv</a>).
+
+<p>10 Oct 2023: I gave a talk in the internal numerical analysis seminar at the University of Oxford, UK. I spoke on a sparse hp-finite element method for the Helmholtz equation posed on disks, annuli, and cylinders.</p>
 
 <p>25 Sep 2023: I gave a talk in the <a href="https://scoop.iwr.uni-heidelberg.de/events/2023_eucco/">EUCCO 2023 conference</a> in Heidelberg, Germany, on computing multiple solutions of topology optimization problems. <a href="{{ "/files/dbm.pdf" | absolute_url }}">Click for slides</a>.</p>
 
