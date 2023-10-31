@@ -40,9 +40,9 @@ examinations (2016).
 
 <p>14 Nov 2023: I will become a <a href="https://www.math-berlin.de/bms-faculty/dirichlet-postdoctoral-program">Dirichlet postdoctoral fellow</a> based in the  <a href="https://www.wias-berlin.de/">Weierstrass Institute</a>.</p>
 
-<p>13 Oct 2023: I am an invited speaker in the numerical analysis seminar at the University of Bath, UK.</p>
-
 <h2 id="news">News</h2>
+
+<p>13 Oct 2023: I gave a talk in the numerical analysis seminar at the University of Bath, UK. I spoke on a sparse hp-finite element method for the Helmholtz equation posed on disks, annuli, and cylinders.</p>
 
 <p>11 Oct 2023: Timon S. Gutleb, Richard M. Slevinsky, Sheehan Olver and I submitted a manuscript entitled "Building hierarchies of semiclassical Jacobi polynomials for spectral methods in annuli" (<a href="https://arxiv.org/abs/2310.07541">arXiv</a>).
 
