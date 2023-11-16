@@ -5,8 +5,8 @@ title: Ioannis P. A. Papadopoulos
 &nbsp;
 &nbsp;
 
-I am a [Research Associate](https://www.imperial.ac.uk/people/ioannis.papadopoulos13) (postdoc) in the
-Numerical Analysis group at Imperial College London.
+I am a [BMS Dirichlet fellow](https://www.math-berlin.de/bms-faculty/dirichlet-postdoctoral-program) (postdoc) in the
+Nonsmooth Variational Problems and Operator Equations group at Weierstrass Institute.
 
 I work on the numerical
 solution of partial differential equations, with a particular focus on
@@ -36,11 +36,11 @@ examinations (2016).
  - London Mathematical Society undergraduate research bursary (2015).
 
 
-<h2 id="forthcoming">Forthcoming</h2>
-
-<p>14 Nov 2023: I will become a <a href="https://www.math-berlin.de/bms-faculty/dirichlet-postdoctoral-program">Dirichlet postdoctoral fellow</a> based in the  <a href="https://www.wias-berlin.de/">Weierstrass Institute</a>.</p>
+<!-- <h2 id="forthcoming">Forthcoming</h2> -->
 
 <h2 id="news">News</h2>
+
+<p>15 Nov 2023: I moved to Berlin and I am now a <a href="https://www.math-berlin.de/bms-faculty/dirichlet-postdoctoral-program">BMS Dirichlet postdoctoral fellow</a> based in the  <a href="https://www.wias-berlin.de/">Weierstrass Institute</a>.</p>
 
 <p>13 Oct 2023: I gave a talk in the numerical analysis seminar at the University of Bath, UK. I spoke on a sparse hp-finite element method for the Helmholtz equation posed on disks, annuli, and cylinders.</p>
 
