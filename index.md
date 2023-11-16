@@ -6,7 +6,7 @@ title: Ioannis P. A. Papadopoulos
 &nbsp;
 
 I am a [BMS Dirichlet fellow](https://www.math-berlin.de/bms-faculty/dirichlet-postdoctoral-program) (postdoc) in the
-Nonsmooth Variational Problems and Operator Equations group at Weierstrass Institute.
+Nonsmooth Variational Problems and Operator Equations group at the Weierstrass Institute in Berlin.
 
 I work on the numerical
 solution of partial differential equations, with a particular focus on
