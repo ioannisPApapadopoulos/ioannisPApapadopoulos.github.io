@@ -40,6 +40,10 @@ examinations (2016).
 
 <h2 id="news">News</h2>
 
+<p>22 Nov 2023: Timon S. Gutleb, José A. Carrillo, Sheehan Olver and I submitted a manuscript entitled "A frame approach for equations involving the fractional Laplacian" (<a href="http://arxiv.org/abs/2311.12451">arXiv</a>).
+
+<p>21 Nov 2023: Timon S. Gutleb and I submitted a manuscript entitled "Explicit fractional Laplacians and Riesz potentials of classical functions" (<a href="https://arxiv.org/abs/2311.10896">arXiv</a>).
+
 <p>15 Nov 2023: I moved to Berlin and I am now a <a href="https://www.math-berlin.de/bms-faculty/dirichlet-postdoctoral-program">BMS Dirichlet postdoctoral fellow</a> based in the  <a href="https://www.wias-berlin.de/">Weierstrass Institute</a>.</p>
 
 <p>13 Oct 2023: I gave a talk in the numerical analysis seminar at the University of Bath, UK. I spoke on a sparse hp-finite element method for the Helmholtz equation posed on disks, annuli, and cylinders.</p>
