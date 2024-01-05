@@ -40,21 +40,21 @@ examinations (2016).
 
 <h2 id="news">News</h2>
 
-<p>29 Nov 2023: A paper was published in SISC on "Preconditioners for Computing Multiple Solutions in Three-Dimensional Fluid Topology Optimization" together with Patrick Farrell (<a href="https://doi.org/10.1137/22M1478598">DOI: 10.1137/22M1478598</a>).
+<p>29 Nov 2023: A paper was published in SISC on "Preconditioners for Computing Multiple Solutions in Three-Dimensional Fluid Topology Optimization" together with Patrick Farrell (<a href="https://doi.org/10.1137/22M1478598" class="primary button small icon fa-external-link tight">SISC</a>).
 
-<p>22 Nov 2023: Timon S. Gutleb, José A. Carrillo, Sheehan Olver and I submitted a manuscript entitled "A frame approach for equations involving the fractional Laplacian" (<a href="http://arxiv.org/abs/2311.12451">arXiv</a>).
+<p>22 Nov 2023: Timon S. Gutleb, José A. Carrillo, Sheehan Olver and I submitted a manuscript entitled "A frame approach for equations involving the fractional Laplacian" <a href="http://arxiv.org/abs/2311.12451"  class="primary button small icon fa-external-link tight">arXiv</a>.
 
-<p>21 Nov 2023: Timon S. Gutleb and I submitted a manuscript entitled "Explicit fractional Laplacians and Riesz potentials of classical functions" (<a href="https://arxiv.org/abs/2311.10896">arXiv</a>).
+<p>21 Nov 2023: Timon S. Gutleb and I submitted a manuscript entitled "Explicit fractional Laplacians and Riesz potentials of classical functions" <a href="https://arxiv.org/abs/2311.10896" class="primary button small icon fa-external-link tight">arXiv</a>.
 
 <p>15 Nov 2023: I moved to Berlin and I am now a <a href="https://www.math-berlin.de/bms-faculty/dirichlet-postdoctoral-program">BMS Dirichlet postdoctoral fellow</a> based in the  <a href="https://www.wias-berlin.de/">Weierstrass Institute</a>.</p>
 
 <p>13 Oct 2023: I gave a talk in the numerical analysis seminar at the University of Bath, UK. I spoke on a sparse hp-finite element method for the Helmholtz equation posed on disks, annuli, and cylinders.</p>
 
-<p>11 Oct 2023: Timon S. Gutleb, Richard M. Slevinsky, Sheehan Olver and I submitted a manuscript entitled "Building hierarchies of semiclassical Jacobi polynomials for spectral methods in annuli" (<a href="https://arxiv.org/abs/2310.07541">arXiv</a>).
+<p>11 Oct 2023: Timon S. Gutleb, Richard M. Slevinsky, Sheehan Olver and I submitted a manuscript entitled "Building hierarchies of semiclassical Jacobi polynomials for spectral methods in annuli" <a href="https://arxiv.org/abs/2310.07541"  class="primary button small icon fa-external-link tight">arXiv</a>.
 
 <p>10 Oct 2023: I gave a talk in the internal numerical analysis seminar at the University of Oxford, UK. I spoke on a sparse hp-finite element method for the Helmholtz equation posed on disks, annuli, and cylinders.</p>
 
-<p>25 Sep 2023: I gave a talk in the <a href="https://scoop.iwr.uni-heidelberg.de/events/2023_eucco/">EUCCO 2023 conference</a> in Heidelberg, Germany, on computing multiple solutions of topology optimization problems. <a href="{{ "/files/dbm.pdf" | absolute_url }}">Click for slides</a>.</p>
+<p>25 Sep 2023: I gave a talk in the <a href="https://scoop.iwr.uni-heidelberg.de/events/2023_eucco/">EUCCO 2023 conference</a> in Heidelberg, Germany, on computing multiple solutions of topology optimization problems. <a href="{{ "/files/dbm.pdf" | absolute_url }}" class="primary button small icon fa-download tight">Slides</a>.</p>
 
 <p>24 Aug 2023: I gave a talk in <a href="https://iciam2023.org/">ICIAM 2023</a> in Tokyo, Japan, on sparse spectral methods for fractional PDEs. <a href="{{ "/files/SumSpace.pdf" | absolute_url }}">Click for slides</a>.</p>
 
