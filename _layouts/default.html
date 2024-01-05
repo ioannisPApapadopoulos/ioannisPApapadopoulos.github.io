@@ -19,7 +19,7 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       {% if site.logo %}
-      <img src="{{site.logo | relative_url}}" alt="Logo" style="width:device-width;max-width:300px;max-height:300px;"/>
+      <img src="{{site.logo | relative_url}}" alt="Logo" style="max-width:300px;width:device-width;"/>
       {% endif %}
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       <a href="{{ "/files/cv.pdf" | absolute_url }}" class="btn">CV (updated 22 Nov 2023)</a>
