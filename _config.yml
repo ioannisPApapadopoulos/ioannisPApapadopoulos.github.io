@@ -5,9 +5,9 @@ github_username:  ioannisPApapadopoulos
 bitbucket_username:  papadopoulos
 
 # Build settings
-remote_theme: ioannisPApapadopoulos/cayman@v0.2.0
+theme: jekyll-theme-cayman
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-feed
 
 github:
   is_project_page: false
