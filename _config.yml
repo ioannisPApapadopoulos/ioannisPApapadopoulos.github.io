@@ -5,7 +5,7 @@ github_username:  ioannisPApapadopoulos
 bitbucket_username:  papadopoulos
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
