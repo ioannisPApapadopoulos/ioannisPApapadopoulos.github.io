@@ -18,12 +18,12 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       {% if site.logo %}
-      <img src="{{site.logo | relative_url}}" alt="Logo" style="width:150px;height:150px;"/>
+      <img src="{{site.logo | relative_url}}" alt="Logo" style="width:300px;height:300px;"/>
       {% endif %}
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      <h3><a href="{{ "/files/cv.pdf" | absolute_url }}" class="btn">CV (updated 22 Nov 2023)</a></h3>
-        <h3><a href="https://ora.ox.ac.uk/objects/uuid:455f5465-af68-49c7-8e11-96909cdb82a1" class="btn">PhD Thesis</a></h3>
-        <h3><a href="{{ "/notes" | absolute_url }}" class="btn">Notes</a></h3>
+      <a href="{{ "/files/cv.pdf" | absolute_url }}" class="btn">CV (updated 22 Nov 2023)</a>
+        <a href="https://ora.ox.ac.uk/objects/uuid:455f5465-af68-49c7-8e11-96909cdb82a1" class="btn">PhD Thesis</a>
+        <a href="{{ "/notes" | absolute_url }}" class="btn">Notes</a>
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
@@ -34,6 +34,14 @@
     </header>
 
     <main id="content" class="main-content" role="main">
+        <ul>
+            <li><a href="mailto:papadopoulos@wias-berlin.de"><i class="far fa-envelope"></i></a> <a href="mailto:papadopoulos@wias-berlin.de">papadopoulos@wias-berlin.de</a>
+            <li><a href="https://bitbucket.org/papadopoulos/"><i class="fab fa-bitbucket"></i></a> <a href="https://bitbucket.org/papadopoulos/">papadopoulos</a>
+            <li><a href="https://github.com/ioannisPApapadopoulos/"><i class="fab fa-github"></i></a> <a href="https://github.com/ioannisPApapadopoulos/">ioannisPApapadopoulos</a>
+            <li><a href="https://orcid.org/0000-0003-3522-8761"><i class="fab fa-orcid"></i></a> <a href="https://orcid.org/0000-0003-3522-8761">0000-0003-3522-8761</a>
+            <li><a href="https://scholar.google.com/citations?user=KcuzI4gAAAAJ&hl=en"><i class="fab fa-google"></i></a> <a href="https://scholar.google.com/citations?user=KcuzI4gAAAAJ&hl=en">scholar</a>
+        </ul>
+
       {{ content }}
 
       <footer class="site-footer">

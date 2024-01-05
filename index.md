@@ -40,7 +40,7 @@ examinations (2016).
 
 <h2 id="news">News</h2>
 
-<p>29 Nov 2023: A paper was published in SISC on "Preconditioners for Computing Multiple Solutions in Three-Dimensional Fluid Topology Optimization" together with Patrick Farrell (<a href="https://doi.org/10.1137/22M1478598" class="primary button small icon fa-external-link tight">SISC</a>).
+<p>29 Nov 2023: A paper was published in SISC on "Preconditioners for Computing Multiple Solutions in Three-Dimensional Fluid Topology Optimization" together with Patrick Farrell (<a href="https://doi.org/10.1137/22M1478598" class="btn">SISC</a>).
 
 <p>22 Nov 2023: Timon S. Gutleb, José A. Carrillo, Sheehan Olver and I submitted a manuscript entitled "A frame approach for equations involving the fractional Laplacian" <a href="http://arxiv.org/abs/2311.12451"  class="primary button small icon fa-external-link tight">arXiv</a>.
 
