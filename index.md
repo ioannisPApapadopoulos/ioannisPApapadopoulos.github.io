@@ -28,7 +28,7 @@ I have collected a number of self-contained codes in MATLAB, Python, and Julia o
 
 <h2 id="noteableprizes">Noteable Prizes</h2>
 
- - IMA Leslie Fox Prize in Numerical Analysis, second place (2023).
+ - [IMA Leslie Fox Prize in Numerical Analysis](https://en.wikipedia.org/wiki/Leslie_Fox_Prize_for_Numerical_Analysis), second place (2023).
  - Durham Prize, awarded by Keble College for performance during an MSc (2017). 
  - Gerald Whitrow Prize, awarded for excellence during the final undergraduate
 examinations (2016). 
