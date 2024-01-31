@@ -1,5 +1,5 @@
 ---
-title: Notes
+title: Ioannis P. A. Papadopoulos
 permalink: /notes/
 ---
 
