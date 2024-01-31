@@ -15,7 +15,7 @@ permalink: /papers/
 
 <p> <b>I. P. A. Papadopoulos</b>, <i>Numerical analysis of a discontinuous Galerkin method for the Borrvall-Petersson topology optimization problem</i>, SIAM Journal on Numerical Analysis, 2022. <a href="https://doi.org/10.1137/21M1438943">(Paper)</a>, <a href="https://arxiv.org/abs/2108.03930">(arXiv)</a>.</p>
 
-<p> <b>I. P. A. Papadopoulos</b> E. Süli <i>Numerical analysis of a topology optimization problem for Stokes flow</i>, Journal of Computational and Applied Mathematics, 2022. <a href="https://doi.org/10.1016/j.cam.2022.114295">(Paper)</a>, <a href="https://arxiv.org/abs/2102.10408">(arXiv)</a>.</p>
+<p> <b>I. P. A. Papadopoulos</b>, E. Süli <i>Numerical analysis of a topology optimization problem for Stokes flow</i>, Journal of Computational and Applied Mathematics, 2022. <a href="https://doi.org/10.1016/j.cam.2022.114295">(Paper)</a>, <a href="https://arxiv.org/abs/2102.10408">(arXiv)</a>.</p>
 
 <p> <b>I. P. A. Papadopoulos</b>, <i>Numerical analysis of the SIMP model for the topology optimization problem of minimizing compliance in linear elasticity</i>, preprint, 2023. <a href="https://arxiv.org/abs/2211.04249">(arXiv)</a>.</p>
 
@@ -29,4 +29,4 @@ permalink: /papers/
 
 <p><b>I. P. A. Papadopoulos</b>, S. Olver,  <i>A sparse spectral method for fractional differential equations in one-spatial dimension</i>, preprint, 2022. <a href="https://arxiv.org/abs/2210.08247">(arXiv)</a>.</p>
 
-<p>T. S. Gutleb, <b>I. P. A. Papadopoulos</b>, </i>Explicit fractional Laplacians and Riesz potentials of classical functions<i>, preprint, 2023. <a href="https://arxiv.org/abs/2311.10896">(arXiv)</a>.</p>
+<p>T. S. Gutleb, <b>I. P. A. Papadopoulos</b>, <i>Explicit fractional Laplacians and Riesz potentials of classical functions</i>, preprint, 2023. <a href="https://arxiv.org/abs/2311.10896">(arXiv)</a>.</p>
