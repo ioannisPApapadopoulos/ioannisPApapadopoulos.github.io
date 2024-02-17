@@ -11,9 +11,9 @@ I am a [BMS Dirichlet fellow](https://www.math-berlin.de/bms-faculty/dirichlet-p
 I work on the numerical
 solution of partial differential equations, with a particular focus on
 
- - finite element methods,
  - high-order spectral/hp-finite element methods,
  - topology optimization,
+ - quasivariational inequalities,
  - computing multiple solutions of nonlinear PDEs.
 
 I have applied the numerical techniques I develop to various
