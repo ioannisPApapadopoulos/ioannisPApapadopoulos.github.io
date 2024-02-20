@@ -11,6 +11,10 @@ permalink: /papers/
 
 <p> <b>I. P. A. Papadopoulos</b>, P. E. Farrell, T. M. Surowiec, <i>Computing multiple solutions of topology optimization problems</i>, SIAM Journal on Scientific Computing, 2021. <a href="https://doi.org/10.1137/20M1326209">(Paper)</a>, <a href="https://arxiv.org/abs/2004.11797">(arXiv)</a>.</p>
 
+## Hierarchical hp-finite element methods
+
+<p>K. Knook, S. Olver, <b>I. P. A. Papadopoulos</b>, <i>Quasi-optimal complexity hp-FEM for Poisson on a rectangle</i>, preprint, 2024. <a href="https://arxiv.org/abs/2402.11299">(arXiv)</a>.</p>
+
 ## Numerical analysis of topology optimization problems
 
 <p> <b>I. P. A. Papadopoulos</b>, <i>Numerical analysis of the SIMP model for the topology optimization problem of minimizing compliance in linear elasticity</i>, preprint, 2023. <a href="https://arxiv.org/abs/2211.04249">(arXiv)</a>.</p>
