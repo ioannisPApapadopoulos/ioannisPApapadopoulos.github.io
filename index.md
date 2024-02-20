@@ -40,6 +40,8 @@ examinations (2016).
 
 <h2 id="news">News</h2>
 
+<p>20 Feb 2024: Kars Knook, Sheehan Olver and I submitted a manuscript entitled "Quasi-optimal complexity hp-FEM for Poisson on a rectangle" (<a href="https://arxiv.org/abs/2402.11299">arXiv</a>).
+
 <p>29 Nov 2023: A paper was published in SISC on "Preconditioners for Computing Multiple Solutions in Three-Dimensional Fluid Topology Optimization" together with Patrick Farrell (<a href="https://doi.org/10.1137/22M1478598">DOI: 10.1137/22M1478598</a>).
 
 <p>22 Nov 2023: Timon S. Gutleb, José A. Carrillo, Sheehan Olver and I submitted a manuscript entitled "A frame approach for equations involving the fractional Laplacian" (<a href="http://arxiv.org/abs/2311.12451">arXiv</a>).
