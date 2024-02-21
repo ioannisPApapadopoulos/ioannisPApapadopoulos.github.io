@@ -13,6 +13,8 @@ permalink: /papers/
 
 ## Hierarchical hp-finite element methods
 
+<p><b>I. P. A. Papadopoulos</b>, S. Olver <i>A sparse hierarchical hp-finite element method on disks and annuli</i>, preprint, 2024. <a href="https://arxiv.org/abs/2402.12831">(arXiv)</a>.</p>
+
 <p>K. Knook, S. Olver, <b>I. P. A. Papadopoulos</b>, <i>Quasi-optimal complexity hp-FEM for Poisson on a rectangle</i>, preprint, 2024. <a href="https://arxiv.org/abs/2402.11299">(arXiv)</a>.</p>
 
 ## Numerical analysis of topology optimization problems
