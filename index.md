@@ -36,11 +36,11 @@ examinations (2016).
  - London Mathematical Society undergraduate research bursary (2015).
 
 
-<h2 id="forthcoming">Forthcoming</h2>
-
-<p>24-26 Jun 2024: I will give an invited talk entitled "A frame approach for equations involving the fractional Laplacian" at the <a href="https://www.ucl.ac.uk/~ucahagi/workshop.html">Singular and oscillatory integration: advances and applications</a> workshop in UCL, UK.</p>
+<!-- <h2 id="forthcoming">Forthcoming</h2> -->
 
 <h2 id="news">News</h2>
+
+<p>25 Jun 2024: I give an invited talk entitled "A frame approach for equations involving the fractional Laplacian" at the <a href="https://www.ucl.ac.uk/~ucahagi/workshop.html">Singular and oscillatory integration: advances and applications</a> workshop in UCL, UK. <a href="{{ "/files/fractional-frames.pdf" | absolute_url }}">Click for slides</a>.</p>
 
 <p>21 Feb 2024: I gave a talk in the <a href="https://wias-berlin.de/research/rgs/fg8/seminar/">Weierstrass Institute seminar on Non-smooth Variational Problems and Operator Equations</a> in Berlin, Germany, on computing multiple solutions of topology optimization problems. <a href="{{ "/files/dbm.pdf" | absolute_url }}">Click for slides</a>.</p>
 
