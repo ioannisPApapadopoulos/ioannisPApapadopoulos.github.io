@@ -40,6 +40,8 @@ examinations (2016).
 
 <h2 id="news">News</h2>
 
+<p>10 Jul 2024: Sheehan Olver and I published a paper in Advances in Computational Mathematics entitled "A sparse spectral method for fractional differential equations in one-spatial dimension" (<a href="https://doi.org/10.1007/s10444-024-10164-1">DOI: 10.1007/s10444-024-10164-1</a>).</p>
+
 <p>25 Jun 2024: I gave an invited talk entitled "A frame approach for equations involving the fractional Laplacian" at the <a href="https://www.ucl.ac.uk/~ucahagi/workshop.html">Singular and oscillatory integration: advances and applications</a> workshop in UCL, UK. <a href="{{ "/files/fractional-frames.pdf" | absolute_url }}">Click for slides</a>.</p>
 
 <p>21 Feb 2024: I gave a talk in the <a href="https://wias-berlin.de/research/rgs/fg8/seminar/">Weierstrass Institute seminar on Non-smooth Variational Problems and Operator Equations</a> in Berlin, Germany, on computing multiple solutions of topology optimization problems. <a href="{{ "/files/dbm.pdf" | absolute_url }}">Click for slides</a>.</p>
