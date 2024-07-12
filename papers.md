@@ -35,4 +35,4 @@ permalink: /papers/
 
 <p>T. S. Gutleb, <b>I. P. A. Papadopoulos</b>, <i>Explicit fractional Laplacians and Riesz potentials of classical functions</i>, preprint, 2023. <a href="https://arxiv.org/abs/2311.10896">(arXiv)</a>.</p>
 
-<p><b>I. P. A. Papadopoulos</b>, S. Olver,  <i>A sparse spectral method for fractional differential equations in one-spatial dimension</i>, preprint, 2022. <a href="https://arxiv.org/abs/2210.08247">(arXiv)</a>.</p>
+<p><b>I. P. A. Papadopoulos</b>, S. Olver,  <i>A sparse spectral method for fractional differential equations in one-spatial dimension</i>, Advances in Computational Mathematics, 2024. <a href="https://doi.org/10.1007/s10444-024-10164-1">(Paper)</a>, <a href="https://arxiv.org/abs/2210.08247">(arXiv)</a>.</p>
