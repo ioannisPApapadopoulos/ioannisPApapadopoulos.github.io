@@ -36,7 +36,9 @@ examinations (2016).
  - London Mathematical Society undergraduate research bursary (2015).
 
 
-<!-- <h2 id="forthcoming">Forthcoming</h2> -->
+<h2 id="forthcoming">Forthcoming</h2>
+
+<p>16-18 Sep 2024: I will give a talk at the <a href="https://www.firedrakeproject.org/firedrake_24.html">Firedrake'24</a> workshop in Oxford, UK, on a semismooth Newton method for obstacle-type quasivariational inequalities.</p>
 
 <h2 id="news">News</h2>
 
