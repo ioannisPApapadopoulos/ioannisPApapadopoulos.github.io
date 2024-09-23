@@ -40,9 +40,9 @@ examinations (2016).
 
 <p>6 Nov 2024:  I will give a <a href="https://mathplus.de/research-2/spotlight/">MATH+ Spotlight Talk</a>.</p>
 
-<p>16-18 Sep 2024: I will give a talk at the <a href="https://www.firedrakeproject.org/firedrake_24.html">Firedrake'24</a> workshop in Oxford, UK, on a semismooth Newton method for obstacle-type quasivariational inequalities.</p>
-
 <h2 id="news">News</h2>
+
+<p>18 Sep 2024: I gave a talk on "a semismooth Newton method for obstacle-type quasivariational inequalities" at the <a href="https://www.firedrakeproject.org/firedrake_24.html">Firedrake'24</a> workshop in Oxford, UK. <a href="{{ "/files/ssn-qvi.pdf" | absolute_url }}">Click for slides</a>.</p>
 
 <p>10 Jul 2024: Sheehan Olver and I published a paper in Advances in Computational Mathematics entitled "A sparse spectral method for fractional differential equations in one-spatial dimension" (<a href="https://doi.org/10.1007/s10444-024-10164-1">DOI: 10.1007/s10444-024-10164-1</a>).</p>
 
