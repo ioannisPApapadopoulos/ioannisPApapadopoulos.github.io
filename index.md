@@ -42,7 +42,7 @@ examinations (2016).
 
 <h2 id="news">News</h2>
 
-<p>1 Oct 2024: I am delighted to announce that Amal Alphonse, Constantin Christof, Michael Hintermüller, and I have submitted a paper entitled "A globalized inexact semismooth Newton method for nonsmooth fixed-point equations involving variational inequalities" where we develop a semismooth Newton method for a class of obstacle-type quasivariational inequalities (<a href="http://arxiv.org/abs/2409.19637">arXiv</a>).</p>
+<p>1 Oct 2024: I am delighted to announce that Amal Alphonse, Constantin Christof, Michael Hintermüller, and I have submitted a paper entitled "A globalized inexact semismooth Newton method for nonsmooth fixed-point equations involving variational inequalities" where we develop a semismooth Newton method for a class of obstacle-type quasivariational inequalities (<a href="http://arxiv.org/abs/2409.19637">arXiv</a>, <a href="https://github.com/ioannisPApapadopoulos/SemismoothQVIs.jl">Gridap code</a>).</p>
 
 <p>18 Sep 2024: I gave a talk on "a semismooth Newton method for obstacle-type quasivariational inequalities" at the <a href="https://www.firedrakeproject.org/firedrake_24.html">Firedrake'24</a> workshop in Oxford, UK. <a href="{{ "/files/ssn-qvi.pdf" | absolute_url }}">Click for slides</a>.</p>
 
