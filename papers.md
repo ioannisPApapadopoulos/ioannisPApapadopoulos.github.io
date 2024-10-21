@@ -11,6 +11,10 @@ permalink: /papers/
 
 <p> <b>I. P. A. Papadopoulos</b>, P. E. Farrell, T. M. Surowiec, <i>Computing multiple solutions of topology optimization problems</i>, SIAM Journal on Scientific Computing, 2021. <a href="https://doi.org/10.1137/20M1326209">(Paper)</a>, <a href="https://arxiv.org/abs/2004.11797">(arXiv)</a>.</p>
 
+## Semismooth Newton methods for nonsmooth equations
+
+<p> A. Alphonse, C. Christof, M. Hintermüller, <b>I. P. A. Papadopoulos</b>, <i>A globalized inexact semismooth Newton method for nonsmooth fixed-point equations involving variational inequalities</i>, preprint, 2024.<a href="https://arxiv.org/abs/2409.19637">(arXiv)</a>.</p>
+
 ## Hierarchical hp-finite element methods
 
 <p><b>I. P. A. Papadopoulos</b>, S. Olver <i>A sparse hierarchical hp-finite element method on disks and annuli</i>, preprint, 2024. <a href="https://arxiv.org/abs/2402.12831">(arXiv)</a>.</p>
