@@ -13,7 +13,7 @@ permalink: /papers/
 
 ## Semismooth Newton methods for nonsmooth equations
 
-<p> A. Alphonse, C. Christof, M. Hintermüller, <b>I. P. A. Papadopoulos</b>, <i>A globalized inexact semismooth Newton method for nonsmooth fixed-point equations involving variational inequalities</i>, preprint, 2024.<a href="https://arxiv.org/abs/2409.19637">(arXiv)</a>.</p>
+<p> A. Alphonse, C. Christof, M. Hintermüller, <b>I. P. A. Papadopoulos</b>, <i>A globalized inexact semismooth Newton method for nonsmooth fixed-point equations involving variational inequalities</i>, preprint, 2024.<a href="https://arxiv.org/abs/2409.19637"> (arXiv)</a>.</p>
 
 ## Hierarchical hp-finite element methods
 
@@ -23,7 +23,7 @@ permalink: /papers/
 
 ## Numerical analysis of topology optimization problems
 
-<p> <b>I. P. A. Papadopoulos</b>, <i>Numerical analysis of the SIMP model for the topology optimization problem of minimizing compliance in linear elasticity</i>, preprint, 2023. <a href="https://arxiv.org/abs/2211.04249">(arXiv)</a>.</p>
+<p> <b>I. P. A. Papadopoulos</b>, <i>Numerical analysis of the SIMP model for the topology optimization problem of minimizing compliance in linear elasticity</i>, to appear in Numerische Mathematik, 2023. <a href="https://arxiv.org/abs/2211.04249">(arXiv)</a>.</p>
 
 <p> <b>I. P. A. Papadopoulos</b>, <i>Numerical analysis of a discontinuous Galerkin method for the Borrvall-Petersson topology optimization problem</i>, SIAM Journal on Numerical Analysis, 2022. <a href="https://doi.org/10.1137/21M1438943">(Paper)</a>, <a href="https://arxiv.org/abs/2108.03930">(arXiv)</a>.</p>
 
@@ -31,7 +31,7 @@ permalink: /papers/
 
 ## Sparse spectral element methods on the disk & annulus
 
-<p> <b>I. P. A. Papadopoulos</b>, T. S. Gutleb, R. M. Slevinsky, S. Olver, <i>Building hierarchies of semiclassical Jacobi polynomials for spectral methods in annuli</i>, preprint, 2023. <a href="https://arxiv.org/abs/2310.07541">(arXiv)</a>.</p>
+<p> <b>I. P. A. Papadopoulos</b>, T. S. Gutleb, R. M. Slevinsky, S. Olver, <i>Building hierarchies of semiclassical Jacobi polynomials for spectral methods in annuli</i>, to appear in the SIAM Journal on Scientific Computing, 2023. <a href="https://arxiv.org/abs/2310.07541">(arXiv)</a>.</p>
 
 ## Pseudospectral methods for the fractional Laplacian
 
