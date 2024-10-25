@@ -40,11 +40,9 @@ examinations (2016).
 
 <p>6 Nov 2024:  I will give a <a href="https://mathplus.de/research-2/spotlight/">MATH+ Spotlight Talk</a> on a semismooth Newton method for obstacle-type quasivariational inequalities.</p>
 
-<!-- <a href="{{ "/files/dbm.pdf" | absolute_url }}">Click for slides</a>. -->
-
 <h2 id="news">News</h2>
 
-<p>22 Oct 2024: I gave a talk in the <a href="https://wias-berlin.de/research/rgs/fg8/seminar/">Weierstrass Institute seminar on Non-smooth Variational Problems and Operator Equations</a> in Berlin, Germany, on a semismooth Newton method for obstacle-type quasivariational inequalities. </p>
+<p>22 Oct 2024: I gave a talk in the <a href="https://wias-berlin.de/research/rgs/fg8/seminar/">Weierstrass Institute seminar on Non-smooth Variational Problems and Operator Equations</a> in Berlin, Germany, on a semismooth Newton method for obstacle-type quasivariational inequalities. <a href="{{ "/files/ssn-qvi-v2.pdf" | absolute_url }}">Click for slides</a>. </p>
 
 <p>1 Oct 2024: I am delighted to announce that Amal Alphonse, Constantin Christof, Michael Hintermüller, and I have submitted a paper entitled "A globalized inexact semismooth Newton method for nonsmooth fixed-point equations involving variational inequalities" where we develop a semismooth Newton method for a class of obstacle-type quasivariational inequalities (<a href="http://arxiv.org/abs/2409.19637">arXiv</a>, <a href="https://github.com/ioannisPApapadopoulos/SemismoothQVIs.jl">Gridap</a>, <a href="https://github.com/ioannisPApapadopoulos/semismoothQVIs">Firedrake</a>).</p>
 
