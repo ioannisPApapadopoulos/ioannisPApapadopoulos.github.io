@@ -42,7 +42,7 @@ examinations (2016).
 
 <h2 id="news">News</h2>
 
-<p>5 Nov 2024: I am very happy to share that a paper was published in the SIAM Journal on Scientific Computing titled "Building hierarchies of semiclassical Jacobi polynomials for spectral methods in annuli" co-authored with Timon Gutleb, Mikael Slevinsky, and Sheehan Olver (<a href="https://doi.org/10.1137/23M160846X">DOI: 10.1137/23M160846X</a>).
+<p>5 Nov 2024: I am happy to share that my paper (co-authored with Timon Gutleb, Mikael Slevinsky, and Sheehan Olver) titled "Building hierarchies of semiclassical Jacobi polynomials for spectral methods in annuli" has been published in the SIAM Journal on Scientific Computing (<a href="https://doi.org/10.1137/23M160846X">DOI: 10.1137/23M160846X</a>).
 
 <p>22 Oct 2024: I gave a talk in the <a href="https://wias-berlin.de/research/rgs/fg8/seminar/">Weierstrass Institute seminar on Non-smooth Variational Problems and Operator Equations</a> in Berlin, Germany, on a semismooth Newton method for obstacle-type quasivariational inequalities. <a href="{{ "/files/ssn-qvi-v2.pdf" | absolute_url }}">Click for slides</a>. </p>
 
