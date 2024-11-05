@@ -42,6 +42,8 @@ examinations (2016).
 
 <h2 id="news">News</h2>
 
+<p>5 Nov 2024: I am very happy to share that a paper was published in the SIAM Journal on Scientific Computing titled "Building hierarchies of semiclassical Jacobi polynomials for spectral methods in annuli" co-authored with Timon Gutleb, Mikael Slevinsky, and Sheehan Olver (<a href="https://doi.org/10.1137/23M160846X">DOI: 10.1137/23M160846X</a>).
+
 <p>22 Oct 2024: I gave a talk in the <a href="https://wias-berlin.de/research/rgs/fg8/seminar/">Weierstrass Institute seminar on Non-smooth Variational Problems and Operator Equations</a> in Berlin, Germany, on a semismooth Newton method for obstacle-type quasivariational inequalities. <a href="{{ "/files/ssn-qvi-v2.pdf" | absolute_url }}">Click for slides</a>. </p>
 
 <p>1 Oct 2024: I am delighted to announce that Amal Alphonse, Constantin Christof, Michael Hintermüller, and I have submitted a paper entitled "A globalized inexact semismooth Newton method for nonsmooth fixed-point equations involving variational inequalities" where we develop a semismooth Newton method for a class of obstacle-type quasivariational inequalities (<a href="http://arxiv.org/abs/2409.19637">arXiv</a>, <a href="https://github.com/ioannisPApapadopoulos/SemismoothQVIs.jl">Gridap</a>, <a href="https://github.com/ioannisPApapadopoulos/semismoothQVIs">Firedrake</a>).</p>
