@@ -36,11 +36,13 @@ examinations (2016).
  - London Mathematical Society undergraduate research bursary (2015).
 
 
-<h2 id="forthcoming">Forthcoming</h2>
+<!-- <h2 id="forthcoming">Forthcoming</h2> -->
 
-<p>6 Nov 2024:  I will give a <a href="https://mathplus.de/research-2/spotlight/">MATH+ Spotlight Talk</a> on a semismooth Newton method for obstacle-type quasivariational inequalities.</p>
+
 
 <h2 id="news">News</h2>
+
+<p>6 Nov 2024:  I gave a <a href="https://mathplus.de/research-2/spotlight/">MATH+ Spotlight Talk</a> on a semismooth Newton method for obstacle-type quasivariational inequalities. <a href="{{ "/files/ssn-qvi-v2.pdf" | absolute_url }}">Click for slides</a>.</p>
 
 <p>5 Nov 2024: I am happy to share that my paper (co-authored with Timon Gutleb, Mikael Slevinsky, and Sheehan Olver) titled "Building hierarchies of semiclassical Jacobi polynomials for spectral methods in annuli" has been published in the SIAM Journal on Scientific Computing (<a href="https://doi.org/10.1137/23M160846X">DOI: 10.1137/23M160846X</a>).
 
