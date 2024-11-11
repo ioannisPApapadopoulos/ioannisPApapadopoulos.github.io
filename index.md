@@ -16,9 +16,6 @@ solution of partial differential equations, with a particular focus on
  - quasivariational inequalities,
  - computing multiple solutions of nonlinear PDEs.
 
-I have applied the numerical techniques I develop to various
-applications, in the areas of fractional PDEs and topology optimization.
-
 I lead the development of
 [fir3dab](https://github.com/ioannisPApapadopoulos/fir3dab), and regularly
 commit to Julia packages in
