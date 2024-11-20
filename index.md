@@ -33,11 +33,14 @@ examinations (2016).
  - London Mathematical Society undergraduate research bursary (2015).
 
 
-<!-- <h2 id="forthcoming">Forthcoming</h2> -->
+<h2 id="forthcoming">Forthcoming</h2>
 
+<p>3-7 Mar 2025: I will give a talk at <a href="https://www.siam.org/conferences-events/siam-conferences/cse25/">CSE25</a> as part of Dan Fortunato and Anna Yesypenko's minisymposium on <a href="https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=82326">"Advances in Domain Decomposition Methods and Fast Solvers"</a>.</p>
 
 
 <h2 id="news">News</h2>
+
+<p>20 Nov 2024: My paper titled "Numerical analysis of the SIMP model for the topology optimization problem of minimizing compliance in linear elasticity" was published in Numerische Mathematik. (<a href="https://doi.org/10.1007/s00211-024-01438-3">DOI: 10.1007/s00211-024-01438-3</a>).</p>
 
 <p>6 Nov 2024:  I gave a <a href="https://mathplus.de/research-2/spotlight/">MATH+ Spotlight Talk</a> on a semismooth Newton method for obstacle-type quasivariational inequalities. <a href="{{ "/files/ssn-qvi-v2.pdf" | absolute_url }}">Click for slides</a>.</p>
 
