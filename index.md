@@ -35,7 +35,7 @@ examinations (2016).
 
 <h2 id="forthcoming">Forthcoming</h2>
 
-<p>1-5 Sep 2025: I am organizing a minisymposium at the <a href="https://www.enumath2025.eu/">ENUMATH</a> 2025 conference in Heidelberg, Germany.</a>.</p>
+<p>1-5 Sep 2025: I am organizing a minisymposium at the <a href="https://www.enumath2025.eu/">ENUMATH</a> 2025 conference in Heidelberg, Germany.</p>
 
 <p>24-27 Jun 2025: I am organizing a minisymposium at the <a href="https://numericalanalysisconference.org.uk/">Biannual Numerical Analysis Conference</a> in Glasgow, UK.</p>
 
@@ -44,7 +44,7 @@ examinations (2016).
 
 <h2 id="news">News</h2>
 
-<p>19 Dec 2024: I have submitted a manuscript on developing a fast hp-robust hp-FEM solver for the obstacle and generalize elastic-plastic torsion problems (<a href="https://arxiv.org/abs/2412.13733">arXiv</a>), (<a href="https://github.com/ioannisPApapadopoulos/HierarchicalProximalGalerkin.jl">Github</a>).</p>
+<p>19 Dec 2024: I have submitted a manuscript on developing a hp-FEM solver for the obstacle and generalized elastic-plastic torsion problems that is fast and exhibits hp-robust iteration counts (<a href="https://arxiv.org/abs/2412.13733">arXiv</a>), (<a href="https://github.com/ioannisPApapadopoulos/HierarchicalProximalGalerkin.jl">Github</a>).</p>
 
 <p>20 Nov 2024: My paper titled "Numerical analysis of the SIMP model for the topology optimization problem of minimizing compliance in linear elasticity" was published in Numerische Mathematik. (<a href="https://doi.org/10.1007/s00211-024-01438-3">DOI: 10.1007/s00211-024-01438-3</a>).</p>
 
