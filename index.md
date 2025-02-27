@@ -39,6 +39,8 @@ examinations (2016).
 
 <p>24-27 Jun 2025: I am organizing a minisymposium at the <a href="https://numericalanalysisconference.org.uk/">Biannual Numerical Analysis Conference</a> in Glasgow, UK.</p>
 
+<p>13 Mar 2025: I will give a talk in the <a href="https://www.wias-berlin.de/research/rgs/fg3/numsem/seminars.jsp">Weierstrass Institute seminar on Numerical Mathematics</a> in Berlin, Germany, on a ``Hierarchical proximal Galerkin: a fast hp-FEM solver for variational problems with pointwise inequality constraints". </p>
+
 <p>3-7 Mar 2025: I will give a talk at <a href="https://www.siam.org/conferences-events/siam-conferences/cse25/">CSE25</a> as part of Dan Fortunato and Anna Yesypenko's minisymposium on <a href="https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=82326">"Advances in Domain Decomposition Methods and Fast Solvers"</a>.</p>
 
 
