@@ -41,10 +41,12 @@ examinations (2016).
 
 <p>13 Mar 2025: I will give a talk in the <a href="https://www.wias-berlin.de/research/rgs/fg3/numsem/seminars.jsp">Weierstrass Institute seminar on Numerical Mathematics</a> in Berlin, Germany, on a ``Hierarchical proximal Galerkin: a fast hp-FEM solver for variational problems with pointwise inequality constraints". </p>
 
-<p>3-7 Mar 2025: I will give a talk at <a href="https://www.siam.org/conferences-events/siam-conferences/cse25/">CSE25</a> as part of Dan Fortunato and Anna Yesypenko's minisymposium on <a href="https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=82326">"Advances in Domain Decomposition Methods and Fast Solvers"</a>.</p>
-
 
 <h2 id="news">News</h2>
+
+<p>10 Mar 2025: I am delighted to announce that, together with Jørgen Dokken, Patrick Farrell, Brendan Keith, and Thomas Surowiec, we have submitted a paper entitled "The latent variable proximal point algorithm for variational problems with inequality constraints" where we develop a framework for handling pointwise constraints on variational problems (<a href="https://arxiv.org/abs/2503.05672">arXiv</a>, <a href="https://github.com/METHODS-Group/ProximalGalerkin">Code</a>).</p>
+
+<p>5 Mar 2025: I gave a talk at <a href="https://www.siam.org/conferences-events/siam-conferences/cse25/">CSE25</a> on "A sparse hierarchical hp-finite element method on on disks, annuli, and cylinders" as part of Dan Fortunato and Anna Yesypenko's minisymposium on <a href="https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=82326">"Advances in Domain Decomposition Methods and Fast Solvers"</a>. <a href="{{ "/files/dp-disk.pdf" | absolute_url }}">Click for slides</a>. </p>
 
 <p>19 Dec 2024: I have submitted a manuscript on developing a hp-FEM solver for the obstacle and generalized elastic-plastic torsion problems that is fast and exhibits hp-robust iteration counts (<a href="https://arxiv.org/abs/2412.13733">arXiv</a>), (<a href="https://github.com/ioannisPApapadopoulos/HierarchicalProximalGalerkin.jl">Github</a>).</p>
 

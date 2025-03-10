@@ -7,6 +7,8 @@ permalink: /papers/
 
 ## Preprints
 
+<p> [14] J. S. Dokken, P. E. Farrell, B. Keith, <b>I. P. A. Papadopoulos</b>, T. M. Surowiec, <i>The latent variable proximal point algorithm for variational problems with inequality constraints</i>, preprint, 2024.<a href="https://arxiv.org/abs/2503.05672"> (arXiv)</a>.</p>
+
 <p> [13] <b>I. P. A. Papadopoulos</b>, <i>Hierarchical proximal Galerkin: a fast hp-FEM solver for variational problems with pointwise inequality constraints</i>, preprint, 2024.<a href="https://arxiv.org/abs/2412.13733"> (arXiv)</a>.</p>
 
 <p> [12] A. Alphonse, C. Christof, M. Hintermüller, <b>I. P. A. Papadopoulos</b>, <i>A globalized inexact semismooth Newton method for nonsmooth fixed-point equations involving variational inequalities</i>, preprint, 2024.<a href="https://arxiv.org/abs/2409.19637"> (arXiv)</a>.</p>
