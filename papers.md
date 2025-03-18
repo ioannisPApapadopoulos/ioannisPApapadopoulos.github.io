@@ -1,5 +1,5 @@
 ---
-title: Ioannis P. A. Papadopoulos
+title: Ioannis (John) P. A. Papadopoulos
 permalink: /papers/
 ---
 
