@@ -1,5 +1,5 @@
 ---
-title: Ioannis P. A. Papadopoulos
+title: Ioannis (John) P. A. Papadopoulos
 ---
 
 &nbsp;
@@ -37,7 +37,7 @@ examinations (2016).
 
 <p>1-5 Sep 2025: I am organizing a minisymposium at the <a href="https://www.enumath2025.eu/">ENUMATH</a> 2025 conference in Heidelberg, Germany.</p>
 
-<p>24-27 Jun 2025: I am organizing a minisymposium at the <a href="https://numericalanalysisconference.org.uk/">Biannual Numerical Analysis Conference</a> in Glasgow, UK.</p>
+<p>24-27 Jun 2025: I am organizing a minisymposium at the <a href="https://numericalanalysisconference.org.uk/">Biennial Numerical Analysis Conference</a> in Glasgow, UK.</p>
 
 
 <h2 id="news">News</h2>
