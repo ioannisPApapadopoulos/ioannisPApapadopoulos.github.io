@@ -39,6 +39,7 @@ examinations (2016).
 
 <p>24-27 Jun 2025: I am organizing a minisymposium at the <a href="https://numericalanalysisconference.org.uk/">Biennial Numerical Analysis Conference</a> in Glasgow, UK.</p>
 
+<p>4 Apr 2025: I will give a talk in the <a href="https://appliedmath.brown.edu/scientific-computing-seminars">Brown University Scientific Computing Seminar</a> series in Providence, USA, on "Hierarchical proximal Galerkin: a fast hp-FEM solver for variational problems with pointwise inequality constraints".</p>
 
 <h2 id="news">News</h2>
 
