@@ -41,7 +41,7 @@ examinations (2016).
 
 <h2 id="news">News</h2>
 
-<p>11 Apr 2025: I gave a talk in the <a href="https://appliedmath.brown.edu/scientific-computing-seminars">Brown University Scientific Computing Seminar</a> series in Providence, USA, on "Hierarchical proximal Galerkin: a fast hp-FEM solver for variational problems with pointwise inequality constraints". <a href="{{ "/files/hpg.pdf" | absolute_url }}">Click for slides</a>. </p>
+<p>11 Apr 2025: I gave an invited talk in the <a href="https://appliedmath.brown.edu/scientific-computing-seminars">Brown University Scientific Computing Seminar</a> series in Providence, USA, on "Hierarchical proximal Galerkin: a fast hp-FEM solver for variational problems with pointwise inequality constraints". <a href="{{ "/files/hpg.pdf" | absolute_url }}">Click for slides</a>. </p>
 
 <p>13 Mar 2025: I gave a talk in the <a href="https://www.wias-berlin.de/research/rgs/fg3/numsem/seminars.jsp">Weierstrass Institute seminar on Numerical Mathematics</a> in Berlin, Germany, on "Hierarchical proximal Galerkin: a fast hp-FEM solver for variational problems with pointwise inequality constraints". <a href="{{ "/files/hpg.pdf" | absolute_url }}">Click for slides</a>. </p>
 
