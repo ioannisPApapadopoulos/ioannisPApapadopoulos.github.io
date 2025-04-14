@@ -39,9 +39,9 @@ examinations (2016).
 
 <p>24-27 Jun 2025: I am organizing a minisymposium on <a href="https://numericalanalysisconference.org.uk/conferences/2025/minisymposia">solvers for PDEs with a nonsmooth structure</a> at the <a href="https://numericalanalysisconference.org.uk/">Biennial Numerical Analysis Conference</a> in Glasgow, UK.</p>
 
-<p>4 Apr 2025: I will give a talk in the <a href="https://appliedmath.brown.edu/scientific-computing-seminars">Brown University Scientific Computing Seminar</a> series in Providence, USA, on "Hierarchical proximal Galerkin: a fast hp-FEM solver for variational problems with pointwise inequality constraints".</p>
-
 <h2 id="news">News</h2>
+
+<p>11 Apr 2025: I gave a talk in the <a href="https://appliedmath.brown.edu/scientific-computing-seminars">Brown University Scientific Computing Seminar</a> series in Providence, USA, on "Hierarchical proximal Galerkin: a fast hp-FEM solver for variational problems with pointwise inequality constraints". <a href="{{ "/files/hpg.pdf" | absolute_url }}">Click for slides</a>. </p>
 
 <p>13 Mar 2025: I gave a talk in the <a href="https://www.wias-berlin.de/research/rgs/fg3/numsem/seminars.jsp">Weierstrass Institute seminar on Numerical Mathematics</a> in Berlin, Germany, on "Hierarchical proximal Galerkin: a fast hp-FEM solver for variational problems with pointwise inequality constraints". <a href="{{ "/files/hpg.pdf" | absolute_url }}">Click for slides</a>. </p>
 
