@@ -103,7 +103,7 @@ examinations (2016).
 
 <p>29-30 Jun 2023: I co-organised a minisymposium of 12 speakers (together with Timon Gutleb and Marco Fasondini) on "Spectral methods and orthogonal polynomials" in the <a href="https://numericalanalysisconference.org.uk/">29th Biennial Numerical Analysis Conference</a> in Strathclyde, Glasgow.</p>
 
-<p>26 Jun 2023: I won second place in the <a href="https://ima.org.uk/awards-medals/ima-leslie-fox-prize-numerical-analysis/">Leslie-Fox prize competition</a>. <a href="{{ "/files/NAofBP.pdf" | absolute_url }}">Click for slides</a>.</p>
+<p>26 Jun 2023: I won second place in the <a href="https://ima.org.uk/awards-medals/ima-leslie-fox-prize-numerical-analysis/">Leslie Fox prize competition</a>. <a href="{{ "/files/NAofBP.pdf" | absolute_url }}">Click for slides</a>.</p>
 
 <p>2 Mar 2023: I gave a talk in <a href="https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=75527">CSE23</a> in Amsterdam, Netherlands, on sparse spectral methods for fractional PDEs. <a href="{{ "/files/SumSpace.pdf" | absolute_url }}">Click for slides</a>.</p>
 
