@@ -13,7 +13,7 @@ solution of partial differential equations, with a particular focus on
 
  - high-order spectral/hp-finite element methods,
  - topology optimization,
- - quasivariational inequalities,
+ - quasi-variational inequalities,
  - computing multiple solutions of nonlinear PDEs.
 
 I lead the development of
@@ -26,6 +26,7 @@ I have collected a number of self-contained codes in MATLAB, Python, and Julia o
 <h2 id="noteableprizes">Noteable Prizes</h2>
 
  - [IMA Leslie Fox Prize in Numerical Analysis](https://en.wikipedia.org/wiki/Leslie_Fox_Prize_for_Numerical_Analysis), second place (2023).
+ - Berlin Mathematical School Dirichlet Postdoctoral Fellowship (2023).
  - Durham Prize, awarded by Keble College for performance during an MSc (2017). 
  - Gerald Whitrow Prize, awarded for excellence during the final undergraduate
 examinations (2016). 
