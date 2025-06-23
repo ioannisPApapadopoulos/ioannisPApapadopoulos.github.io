@@ -42,6 +42,9 @@ examinations (2016).
 
 <h2 id="news">News</h2>
 
+<p>23 Jun 2025: I am happy to share that my paper (co-authored with Sheehan Olver) titled "A sparse hierarchical hp-finite element method on disks and annuli" has been published in the Journal of Scientific Computing (<a href="https://doi.org/10.1007/s10915-025-02964-4">DOI: 10.1007/s10915-025-02964-4</a>).
+
+
 <p>17 Apr 2025: I gave a talk in the METHODS group meeting at Brown University, Providence USA, on the numerical analysis of a topology optimization problem for the compliance of a linearly elastic structure. <a href="{{ "/files/NAofSIMP.pdf" | absolute_url }}">Click for slides</a>.</p>
 
 <p>11 Apr 2025: I gave an invited talk in the <a href="https://appliedmath.brown.edu/scientific-computing-seminars">Brown University Scientific Computing Seminar</a> series in Providence, USA, on "Hierarchical proximal Galerkin: a fast hp-FEM solver for variational problems with pointwise inequality constraints". <a href="{{ "/files/hpg.pdf" | absolute_url }}">Click for slides</a>. </p>

@@ -13,16 +13,16 @@ permalink: /papers/
 
 <p> [12] A. Alphonse, C. Christof, M. Hintermüller, <b>I. P. A. Papadopoulos</b>, <i>A globalized inexact semismooth Newton method for nonsmooth fixed-point equations involving variational inequalities</i>, preprint, 2024.<a href="https://arxiv.org/abs/2409.19637"> (arXiv)</a>.</p>
 
-<p> [11] <b>I. P. A. Papadopoulos</b>, S. Olver <i>A sparse hierarchical hp-finite element method on disks and annuli</i>, preprint, 2024. <a href="https://arxiv.org/abs/2402.12831">(arXiv)</a>.</p>
+<p> [11] K. Knook, S. Olver, <b>I. P. A. Papadopoulos</b>, <i>Quasi-optimal complexity hp-FEM for Poisson on a rectangle</i>, preprint, 2024. <a href="https://arxiv.org/abs/2402.11299">(arXiv)</a>.</p>
 
-<p> [10] K. Knook, S. Olver, <b>I. P. A. Papadopoulos</b>, <i>Quasi-optimal complexity hp-FEM for Poisson on a rectangle</i>, preprint, 2024. <a href="https://arxiv.org/abs/2402.11299">(arXiv)</a>.</p>
+<p> [10] <b>I. P. A. Papadopoulos</b>, T. S. Gutleb, J. A. Carrillo, S. Olver, <i>A frame approach for equations involving the fractional Laplacian</i>, preprint, 2023. <a href="https://arxiv.org/abs/2311.12451">(arXiv)</a>.</p>
 
-<p> [9] <b>I. P. A. Papadopoulos</b>, T. S. Gutleb, J. A. Carrillo, S. Olver, <i>A frame approach for equations involving the fractional Laplacian</i>, preprint, 2023. <a href="https://arxiv.org/abs/2311.12451">(arXiv)</a>.</p>
-
-<p> [8] T. S. Gutleb, <b>I. P. A. Papadopoulos</b>, <i>Explicit fractional Laplacians and Riesz potentials of classical functions</i>, preprint, 2023. <a href="https://arxiv.org/abs/2311.10896">(arXiv)</a>.</p>
+<p> [9] T. S. Gutleb, <b>I. P. A. Papadopoulos</b>, <i>Explicit fractional Laplacians and Riesz potentials of classical functions</i>, preprint, 2023. <a href="https://arxiv.org/abs/2311.10896">(arXiv)</a>.</p>
 
 
 ## Published
+
+<p> [8] <b>I. P. A. Papadopoulos</b>, S. Olver <i>A sparse hierarchical hp-finite element method on disks and annuli</i>, <b>Journal of Scientific Computing</b>, 2025. <a href="https://doi.org/10.1007/s10915-025-02964-4">(Paper)</a>, <a href="https://arxiv.org/abs/2402.12831">(arXiv)</a>.</p>
 
 <p> [7] <b>I. P. A. Papadopoulos</b>, <i>Numerical analysis of the SIMP model for the topology optimization problem of minimizing compliance in linear elasticity</i>, <b>Numerische Mathematik</b>, 2024. <a href="https://doi.org/10.1007/s00211-024-01438-3">(Paper)</a>, <a href="https://arxiv.org/abs/2211.04249">(arXiv)</a>.</p>
 
