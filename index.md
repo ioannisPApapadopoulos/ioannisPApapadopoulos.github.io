@@ -43,7 +43,7 @@ examinations (2016).
 
 <p>26 Jun 2025: I gave a talk at the <a href="https://numericalanalysisconference.org.uk/">Biennial Numerical Analysis Conference</a> in Glasgow, UK, on "The latent variable proximal point algorithm for variational problems with inequality constraints". <a href="{{ "/files/lvpp.pdf" | absolute_url }}">Click for slides</a>. </p>
 
-<p>24-27 Jun 2025: I am organized a minisymposium with 9 speakers on <a href="https://numericalanalysisconference.org.uk/conferences/2025/minisymposia">solvers for PDEs with a nonsmooth structure</a> at the <a href="https://numericalanalysisconference.org.uk/">Biennial Numerical Analysis Conference</a> in Glasgow, UK.</p>
+<p>24-27 Jun 2025: I organized a minisymposium with 9 speakers on <a href="https://numericalanalysisconference.org.uk/conferences/2025/minisymposia">solvers for PDEs with a nonsmooth structure</a> at the <a href="https://numericalanalysisconference.org.uk/">Biennial Numerical Analysis Conference</a> in Glasgow, UK.</p>
 
 <p>23 Jun 2025: I am happy to share that my paper (co-authored with Sheehan Olver) titled "A sparse hierarchical hp-finite element method on disks and annuli" has been published in the Journal of Scientific Computing (<a href="https://doi.org/10.1007/s10915-025-02964-4">DOI: 10.1007/s10915-025-02964-4</a>).
 
