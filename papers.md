@@ -24,7 +24,7 @@ permalink: /papers/
 
 <p> [8] <b>I. P. A. Papadopoulos</b>, S. Olver <i>A sparse hierarchical hp-finite element method on disks and annuli</i>, <b>Journal of Scientific Computing</b>, 2025. <a href="https://doi.org/10.1007/s10915-025-02964-4">(Paper)</a>, <a href="https://arxiv.org/abs/2402.12831">(arXiv)</a>.</p>
 
-<p> [7] <b>I. P. A. Papadopoulos</b>, <i>Numerical analysis of the SIMP model for the topology optimization problem of minimizing compliance in linear elasticity</i>, <b>Numerische Mathematik</b>, 2024. <a href="https://doi.org/10.1007/s00211-024-01438-3">(Paper)</a>, <a href="https://arxiv.org/abs/2211.04249">(arXiv)</a>.</p>
+<p> [7] <b>I. P. A. Papadopoulos</b>, <i>Numerical analysis of the SIMP model for the topology optimization problem of minimizing compliance in linear elasticity</i>, <b>Numerische Mathematik</b>, 2025. <a href="https://doi.org/10.1007/s00211-024-01438-3">(Paper)</a>, <a href="https://arxiv.org/abs/2211.04249">(arXiv)</a>.</p>
 
 <p> [6] <b>I. P. A. Papadopoulos</b>, T. S. Gutleb, R. M. Slevinsky, S. Olver, <i>Building hierarchies of semiclassical Jacobi polynomials for spectral methods in annuli</i>, <b>SIAM Journal on Scientific Computing</b>, 2024. <a href="https://doi.org/10.1137/23M160846X">(Paper)</a>, <a href="https://arxiv.org/abs/2310.07541">(arXiv)</a>.</p>
 
