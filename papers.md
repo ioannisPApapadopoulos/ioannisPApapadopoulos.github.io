@@ -7,20 +7,20 @@ permalink: /papers/
 
 ## Preprints
 
-<p> [14] J. S. Dokken, P. E. Farrell, B. Keith, <b>I. P. A. Papadopoulos</b>, T. M. Surowiec, <i>The latent variable proximal point algorithm for variational problems with inequality constraints</i>, preprint, 2024.<a href="https://arxiv.org/abs/2503.05672"> (arXiv)</a>.</p>
+<p> [14] <b>I. P. A. Papadopoulos</b>, <i>Hierarchical proximal Galerkin: a fast hp-FEM solver for variational problems with pointwise inequality constraints</i>, preprint, 2024.<a href="https://arxiv.org/abs/2412.13733"> (arXiv)</a>.</p>
 
-<p> [13] <b>I. P. A. Papadopoulos</b>, <i>Hierarchical proximal Galerkin: a fast hp-FEM solver for variational problems with pointwise inequality constraints</i>, preprint, 2024.<a href="https://arxiv.org/abs/2412.13733"> (arXiv)</a>.</p>
+<p> [13] A. Alphonse, C. Christof, M. Hintermüller, <b>I. P. A. Papadopoulos</b>, <i>A globalized inexact semismooth Newton method for nonsmooth fixed-point equations involving variational inequalities</i>, preprint, 2024.<a href="https://arxiv.org/abs/2409.19637"> (arXiv)</a>.</p>
 
-<p> [12] A. Alphonse, C. Christof, M. Hintermüller, <b>I. P. A. Papadopoulos</b>, <i>A globalized inexact semismooth Newton method for nonsmooth fixed-point equations involving variational inequalities</i>, preprint, 2024.<a href="https://arxiv.org/abs/2409.19637"> (arXiv)</a>.</p>
+<p> [12] K. Knook, S. Olver, <b>I. P. A. Papadopoulos</b>, <i>Quasi-optimal complexity hp-FEM for Poisson on a rectangle</i>, preprint, 2024. <a href="https://arxiv.org/abs/2402.11299">(arXiv)</a>.</p>
 
-<p> [11] K. Knook, S. Olver, <b>I. P. A. Papadopoulos</b>, <i>Quasi-optimal complexity hp-FEM for Poisson on a rectangle</i>, preprint, 2024. <a href="https://arxiv.org/abs/2402.11299">(arXiv)</a>.</p>
+<p> [11] <b>I. P. A. Papadopoulos</b>, T. S. Gutleb, J. A. Carrillo, S. Olver, <i>A frame approach for equations involving the fractional Laplacian</i>, preprint, 2023. <a href="https://arxiv.org/abs/2311.12451">(arXiv)</a>.</p>
 
-<p> [10] <b>I. P. A. Papadopoulos</b>, T. S. Gutleb, J. A. Carrillo, S. Olver, <i>A frame approach for equations involving the fractional Laplacian</i>, preprint, 2023. <a href="https://arxiv.org/abs/2311.12451">(arXiv)</a>.</p>
-
-<p> [9] T. S. Gutleb, <b>I. P. A. Papadopoulos</b>, <i>Explicit fractional Laplacians and Riesz potentials of classical functions</i>, preprint, 2023. <a href="https://arxiv.org/abs/2311.10896">(arXiv)</a>.</p>
+<p> [10] T. S. Gutleb, <b>I. P. A. Papadopoulos</b>, <i>Explicit fractional Laplacians and Riesz potentials of classical functions</i>, preprint, 2023. <a href="https://arxiv.org/abs/2311.10896">(arXiv)</a>.</p>
 
 
 ## Published
+
+<p> [9] J. S. Dokken, P. E. Farrell, B. Keith, <b>I. P. A. Papadopoulos</b>, T. M. Surowiec, <i>The latent variable proximal point algorithm for variational problems with inequality constraints</i>, <b>Computer Methods in Applied Mechanics and Engineering</b>, 2025. <a href="https://www.sciencedirect.com/science/article/pii/S0045782525004530">(Paper)</a> <a href="https://arxiv.org/abs/2503.05672"> (arXiv)</a>.</p>
 
 <p> [8] <b>I. P. A. Papadopoulos</b>, S. Olver <i>A sparse hierarchical hp-finite element method on disks and annuli</i>, <b>Journal of Scientific Computing</b>, 2025. <a href="https://doi.org/10.1007/s10915-025-02964-4">(Paper)</a>, <a href="https://arxiv.org/abs/2402.12831">(arXiv)</a>.</p>
 

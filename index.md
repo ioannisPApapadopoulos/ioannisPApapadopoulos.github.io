@@ -41,6 +41,8 @@ examinations (2016).
 
 <h2 id="news">News</h2>
 
+<p>12 Jul 2025: I am delighted to share that, together with Jørgen Dokken, Patrick Farrell, Brendan Keith, and Thomas Surowiec, our paper "The latent variable proximal point algorithm for variational problems with inequality constraints" has been published in the journal Computer Methods in Applied Mechanics and Engineering (CMAME) (<a href="https://www.sciencedirect.com/science/article/pii/S0045782525004530">DOI: 10.1016/j.cma.2025.118181</a>). We develop a novel algorithm for the numerically solution of such problems and show its robustness by tackling ten problems across mathematics including the obstacle problem, the Signorini problem, multiphase problems, quasi-variational inequalities, gradient-type constraints, eigvenvalue constraints in liquid crystal models, the eikonal equation, and the convexity constraint in the Monge-Ampère equation.
+
 <p>26 Jun 2025: I gave a talk at the <a href="https://numericalanalysisconference.org.uk/">Biennial Numerical Analysis Conference</a> in Glasgow, UK, on "The latent variable proximal point algorithm for variational problems with inequality constraints". <a href="{{ "/files/lvpp.pdf" | absolute_url }}">Click for slides</a>. </p>
 
 <p>24-27 Jun 2025: I organized a minisymposium with 9 speakers on <a href="https://numericalanalysisconference.org.uk/conferences/2025/minisymposia">solvers for PDEs with a nonsmooth structure</a> at the <a href="https://numericalanalysisconference.org.uk/">Biennial Numerical Analysis Conference</a> in Glasgow, UK.</p>
