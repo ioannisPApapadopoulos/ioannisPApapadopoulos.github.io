@@ -7,7 +7,7 @@ permalink: /papers/
 
 ## Preprints
 
-<p> [15] A. Alphonse, P. Dvurechensky,, <b>I. P. A. Papadopoulos</b>, C. Sirotenko <i>LeAP-SSN: a semismooth Newton method with global convergence rates</i>, preprint, 2025.<a href="https://arxiv.org/abs/2508.16468"> (arXiv)</a>.</p>
+<p> [15] A. Alphonse, P. Dvurechensky, <b>I. P. A. Papadopoulos</b>, C. Sirotenko,  <i>LeAP-SSN: a semismooth Newton method with global convergence rates</i>, preprint, 2025.<a href="https://arxiv.org/abs/2508.16468"> (arXiv)</a>.</p>
 
 <p> [14] <b>I. P. A. Papadopoulos</b>, <i>Hierarchical proximal Galerkin: a fast hp-FEM solver for variational problems with pointwise inequality constraints</i>, preprint, 2024.<a href="https://arxiv.org/abs/2412.13733"> (arXiv)</a>.</p>
 
