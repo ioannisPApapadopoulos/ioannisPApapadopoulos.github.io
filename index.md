@@ -36,10 +36,16 @@ examinations (2016).
 
 <h2 id="forthcoming">Forthcoming</h2>
 
-<p>1-5 Sep 2025: I am organizing a minisymposium at the <a href="https://www.enumath2025.eu/">ENUMATH</a> 2025 conference in Heidelberg, Germany.</p>
+<p> 19 Jan 2026: I  will be moving to the University of Oxford as a Hooke postdoctoral research fellow.</p>
+
+<p> 27-31 Oct 2025: I am an invited speaker to the RICAM workshop on <a href="https://www.ricam.oeaw.ac.at/specsem/specsem2025/workshop2/">Advanced techniques for design optimization in engineering applications</a> in Linz.</p>
 
 
 <h2 id="news">News</h2>
+
+<p>4 Sep 2025: I gave a talk at the <a href="https://www.enumath2025.eu/">ENUMATH</a> 2025 conference in Heidelberg, Germany, on on "Hierarchical proximal Galerkin: a fast hp-FEM solver for variational problems with pointwise inequality constraints". <a href="{{ "/files/hpg.pdf" | absolute_url }}">Click for slides</a>.</p>
+
+<p>1-5 Sep 2025: Together with Michael Hintermüller, I organized a minisymposium on applications and solvers for nonsmooth equations at the <a href="https://www.enumath2025.eu/">ENUMATH</a> 2025 conference in Heidelberg, Germany.</p>
 
 <p>25 Aug 2025: I am delighted to announce that Amal Alphonse, Pavel Dvurechensky, Clemens Sirotenko, and I have submitted a paper entitled "LeAP-SSN: a semismooth Newton method with global convergence rates " where we develop a globalised semismooth Newton method for semismooth convex, and certain classes of nonconvex optimisation problem with guaranteed convergence rtates. The globalisation is based on modifying the Hessian to become positive-definite and we still recover local superlinear convergence close to the solution. (<a href="https://arxiv.org/abs/2508.16468">arXiv</a>, <a href="https://github.com/amal-alphonse/leapssn">Firedrake</a>).</p>
 
