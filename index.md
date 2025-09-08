@@ -40,6 +40,7 @@ examinations (2016).
 
 <p> 27-31 Oct 2025: I am an invited speaker to the RICAM workshop on <a href="https://www.ricam.oeaw.ac.at/specsem/specsem2025/workshop2/">Advanced techniques for design optimization in engineering applications</a> in Linz.</p>
 
+<p> 9 Sep 2025: I will be giving a workshop on a brief introduction to Firedrake in the FEniCS group meeting at the Weierstrass Institute.</p>
 
 <h2 id="news">News</h2>
 
