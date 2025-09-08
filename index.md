@@ -44,7 +44,7 @@ examinations (2016).
 
 <h2 id="news">News</h2>
 
-<p>4 Sep 2025: I gave a talk at the <a href="https://www.enumath2025.eu/">ENUMATH</a> 2025 conference in Heidelberg, Germany, on on "Hierarchical proximal Galerkin: a fast hp-FEM solver for variational problems with pointwise inequality constraints". <a href="{{ "/files/hpg.pdf" | absolute_url }}">Click for slides</a>.</p>
+<p>4 Sep 2025: I gave a talk at the <a href="https://www.enumath2025.eu/">ENUMATH</a> 2025 conference in Heidelberg, Germany, on "Hierarchical proximal Galerkin: a fast hp-FEM solver for variational problems with pointwise inequality constraints". <a href="{{ "/files/hpg.pdf" | absolute_url }}">Click for slides</a>.</p>
 
 <p>1-5 Sep 2025: Together with Michael Hintermüller, I organized a minisymposium on applications and solvers for nonsmooth equations at the <a href="https://www.enumath2025.eu/">ENUMATH</a> 2025 conference in Heidelberg, Germany.</p>
 
