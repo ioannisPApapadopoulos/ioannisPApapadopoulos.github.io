@@ -40,9 +40,10 @@ examinations (2016).
 
 <p> 27-31 Oct 2025: I am an invited speaker to the RICAM workshop on <a href="https://www.ricam.oeaw.ac.at/specsem/specsem2025/workshop2/">Advanced techniques for design optimization in engineering applications</a> in Linz, Austria.</p>
 
-<p> 9 Sep 2025: I will be giving a workshop on a brief introduction to Firedrake in the FEniCS group meeting at the Weierstrass Institute. <a href="https://github.com/ioannisPApapadopoulos/wias_firedrake_tutorial_2025">Github link.</a></p>
 
 <h2 id="news">News</h2>
+
+<p> 9 Sep 2025: I gave a talk on a brief introduction to Firedrake in the FEniCS group meeting at the Weierstrass Institute. <a href="https://github.com/ioannisPApapadopoulos/wias_firedrake_tutorial_2025">Github link.</a></p>
 
 <p>4 Sep 2025: I gave a talk at the <a href="https://www.enumath2025.eu/">ENUMATH</a> 2025 conference in Heidelberg, Germany, on "Hierarchical proximal Galerkin: a fast hp-FEM solver for variational problems with pointwise inequality constraints". <a href="{{ "/files/hpg.pdf" | absolute_url }}">Click for slides</a>.</p>
 
