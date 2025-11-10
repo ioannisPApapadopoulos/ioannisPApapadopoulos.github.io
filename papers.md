@@ -23,8 +23,6 @@ permalink: /papers/
 
 <p> [10] <b>I. P. A. Papadopoulos</b>, T. S. Gutleb, J. A. Carrillo, S. Olver, <i>A frame approach for equations involving the fractional Laplacian</i>, <b>IMA Journal of Numerical Analysis</b>, 2025.  <a href="https://doi.org/10.1093/imanum/draf086">(Paper)</a>, <a href="https://arxiv.org/abs/2311.12451">(arXiv)</a>.</p>
 
-https://doi.org/10.1093/imanum/draf086
-
 <p> [9] J. S. Dokken, P. E. Farrell, B. Keith, <b>I. P. A. Papadopoulos</b>, T. M. Surowiec, <i>The latent variable proximal point algorithm for variational problems with inequality constraints</i>, <b>Computer Methods in Applied Mechanics and Engineering</b>, 2025. <a href="https://www.sciencedirect.com/science/article/pii/S0045782525004530">(Paper)</a>, <a href="https://arxiv.org/abs/2503.05672"> (arXiv)</a>.</p>
 
 <p> [8] <b>I. P. A. Papadopoulos</b>, S. Olver <i>A sparse hierarchical hp-finite element method on disks and annuli</i>, <b>Journal of Scientific Computing</b>, 2025. <a href="https://doi.org/10.1007/s10915-025-02964-4">(Paper)</a>, <a href="https://arxiv.org/abs/2402.12831">(arXiv)</a>.</p>
