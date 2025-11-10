@@ -11,15 +11,14 @@ permalink: /papers/
 
 <p> [14] <b>I. P. A. Papadopoulos</b>, <i>Hierarchical proximal Galerkin: a fast hp-FEM solver for variational problems with pointwise inequality constraints</i>, preprint, 2024.<a href="https://arxiv.org/abs/2412.13733"> (arXiv)</a>.</p>
 
-<p> [13] A. Alphonse, C. Christof, M. Hintermüller, <b>I. P. A. Papadopoulos</b>, <i>A globalized inexact semismooth Newton method for nonsmooth fixed-point equations involving variational inequalities</i>, preprint, 2024.<a href="https://arxiv.org/abs/2409.19637"> (arXiv)</a>.</p>
-
-<p> [12] K. Knook, S. Olver, <b>I. P. A. Papadopoulos</b>, <i>Quasi-optimal complexity hp-FEM for Poisson on a rectangle</i>, preprint, 2024. <a href="https://arxiv.org/abs/2402.11299">(arXiv)</a>.</p>
-
-
-<p> [11] T. S. Gutleb, <b>I. P. A. Papadopoulos</b>, <i>Explicit fractional Laplacians and Riesz potentials of classical functions</i>, preprint, 2023. <a href="https://arxiv.org/abs/2311.10896">(arXiv)</a>.</p>
+<p> [13] T. S. Gutleb, <b>I. P. A. Papadopoulos</b>, <i>Explicit fractional Laplacians and Riesz potentials of classical functions</i>, preprint, 2023. <a href="https://arxiv.org/abs/2311.10896">(arXiv)</a>.</p>
 
 
 ## Published
+
+<p> [12] A. Alphonse, C. Christof, M. Hintermüller, <b>I. P. A. Papadopoulos</b>, <i>A globalized inexact semismooth Newton method for nonsmooth fixed-point equations involving variational inequalities</i>, <b>to appear in Computational Optimization and Applications </b>, 2025. <a href="https://arxiv.org/abs/2409.19637"> (arXiv)</a>.</p>
+
+<p> [11] K. Knook, S. Olver, <b>I. P. A. Papadopoulos</b>, <i>Quasi-optimal complexity hp-FEM for Poisson on a rectangle</i>, <b>to appear in IMA Journal of Numerical Analysis</b>, 2025. <a href="https://arxiv.org/abs/2402.11299">(arXiv)</a>.</p>
 
 <p> [10] <b>I. P. A. Papadopoulos</b>, T. S. Gutleb, J. A. Carrillo, S. Olver, <i>A frame approach for equations involving the fractional Laplacian</i>, <b>IMA Journal of Numerical Analysis</b>, 2025.  <a href="https://doi.org/10.1093/imanum/draf086">(Paper)</a>, <a href="https://arxiv.org/abs/2311.12451">(arXiv)</a>.</p>
 
