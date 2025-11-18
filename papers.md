@@ -16,7 +16,7 @@ permalink: /papers/
 
 ## Published
 
-<p> [12] K. Knook, S. Olver, <b>I. P. A. Papadopoulos</b>, <i>Quasi-optimal complexity hp-FEM for the Poisson equation on a rectangle</i>, <b>to appear in IMA Journal of Numerical Analysis</b>, 2025. <a href="https://arxiv.org/abs/2402.11299">(arXiv)</a>.</p>
+<p> [12] K. Knook, S. Olver, <b>I. P. A. Papadopoulos</b>, <i>Quasi-optimal complexity hp-FEM for the Poisson equation on a rectangle</i>, <b>IMA Journal of Numerical Analysis</b>, 2025.  <a href="https://doi.org/10.1093/imanum/draf102">(Paper)</a>, <a href="https://arxiv.org/abs/2402.11299">(arXiv)</a>.</p>
 
 <p> [11] A. Alphonse, C. Christof, M. Hintermüller, <b>I. P. A. Papadopoulos</b>, <i>A globalized inexact semismooth Newton method for nonsmooth fixed-point equations involving variational inequalities</i>, <b>Computational Optimization and Applications</b>, 2025. <a href="https://doi.org/10.1007/s10589-025-00722-8">(Paper)</a>, <a href="https://arxiv.org/abs/2409.19637"> (arXiv)</a>.</p>
 
