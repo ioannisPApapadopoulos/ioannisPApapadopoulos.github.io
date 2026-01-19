@@ -5,8 +5,8 @@ title: Ioannis (John) P. A. Papadopoulos
 &nbsp;
 &nbsp;
 
-I am a [BMS Dirichlet fellow](https://www.math-berlin.de/bms-faculty/dirichlet-postdoctoral-program) (postdoc) in the
-[Nonsmooth Variational Problems and Operator Equations](https://www.wias-berlin.de/research/rgs/fg8/index.jsp?lang=1) group at the [Weierstrass Institute in Berlin](https://www.wias-berlin.de/).
+I am a [Hooke Research Fellow](https://www.maths.ox.ac.uk/people/research-fellowship-programmes/hooke-and-titchmarsh-fellowships) in the
+Numerical Analysis Group at the University of Oxford.
 
 I work on the numerical
 solution of partial differential equations, with a particular focus on
@@ -25,6 +25,8 @@ I have collected a number of self-contained codes in MATLAB, Python, and Julia o
 
 <h2 id="noteableprizes">Noteable Prizes</h2>
 
+ - Hooke Research Fellowship in Oxford (2026).
+ - Dirichlet Fellowship in Berlin (2023).
  - [IMA Leslie Fox Prize in Numerical Analysis](https://en.wikipedia.org/wiki/Leslie_Fox_Prize_for_Numerical_Analysis), second place (2023).
  - Berlin Mathematical School Dirichlet Postdoctoral Fellowship (2023).
  - Durham Prize, awarded by Keble College for performance during an MSc (2017). 
@@ -36,10 +38,12 @@ examinations (2016).
 
 <h2 id="forthcoming">Forthcoming</h2>
 
-<p> 19 Jan 2026: I  will be moving to the University of Oxford as a Hooke postdoctoral research fellow.</p>
+<p> 29 Jan 2026: I will give a talk on "The latent variable proximal point algorithm for variational problems with inequality constraints" at the <a href="https://www.maths.ox.ac.uk/events/list/670">Numerical Analysis Group Internal Seminar</a> in Oxford.</p>
 
 
 <h2 id="news">News</h2>
+
+<p> 19 Jan 2026: I have moved to the University of Oxford as a Hooke research fellow.</p>
 
 <p>17 Nov 2025: The paper "Quasi-optimal complexity hp-FEM for the Poisson equation on a rectangle" with Kars Knook and Sheehan Olver, has been published in the IMA Journal of Numerical Analysis. The solver achieves a discretization of over p=33,554,432 on 8 elements in 1D and p=8192 on 4 elements in 2D run on a standard M2 MacBook Air (<a href="https://doi.org/10.1093/imanum/draf102">DOI: 10.1007/s10589-025-00722-8</a>). </p>
 
