@@ -26,14 +26,14 @@ I have collected a number of self-contained codes in MATLAB, Python, and Julia o
 <h2 id="noteableprizes">Noteable Prizes</h2>
 
  - Hooke Research Fellowship in Oxford (2026).
- - Dirichlet Fellowship in Berlin (2023).
  - [IMA Leslie Fox Prize in Numerical Analysis](https://en.wikipedia.org/wiki/Leslie_Fox_Prize_for_Numerical_Analysis), second place (2023).
  - Berlin Mathematical School Dirichlet Postdoctoral Fellowship (2023).
- - Durham Prize, awarded by Keble College for performance during an MSc (2017). 
- - Gerald Whitrow Prize, awarded for excellence during the final undergraduate
-examinations (2016). 
- - Dean's List, awarded to the top 10% of the cohort (2016).
- - London Mathematical Society undergraduate research bursary (2015).
+ - Durham Prize, awarded by Keble College (2017). 
+ <!-- - Durham Prize, awarded by Keble College for performance during an MSc (2017).  -->
+ <!-- - Gerald Whitrow Prize, awarded for excellence during the final undergraduate -->
+<!-- examinations (2016).  -->
+ <!-- - Dean's List, awarded to the top 10% of the cohort (2016). -->
+ <!-- - London Mathematical Society undergraduate research bursary (2015). -->
 
 
 <h2 id="forthcoming">Forthcoming</h2>
