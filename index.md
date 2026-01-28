@@ -38,6 +38,8 @@ I have collected a number of self-contained codes in MATLAB, Python, and Julia o
 
 <h2 id="forthcoming">Forthcoming</h2>
 
+<p> 17 Feb 2026: I have been invited to speak in the <a href="https://web.mat.bham.ac.uk/D.A.Craven/seminars/ona-seminars.html">Optimisation and Numerical Analysis Seminar</a> in the University of Birmingham.</p>
+
 <p> 29 Jan 2026: I will give a talk on "The latent variable proximal point algorithm for variational problems with inequality constraints" at the <a href="https://www.maths.ox.ac.uk/events/list/670">Numerical Analysis Group Internal Seminar</a> in Oxford.</p>
 
 
