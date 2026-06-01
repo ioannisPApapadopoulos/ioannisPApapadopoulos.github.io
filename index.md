@@ -11,7 +11,7 @@ Numerical Analysis Group at the University of Oxford.
 I work on the numerical
 solution of partial differential equations, with a particular focus on
 
-- nonsmooth constrained infinite-dimensional problems,
+- nonsmooth constrained infinite-dimensional optimization problems,
 - topology optimization,
  - quasi-variational inequalities,
  - computing multiple solutions of nonlinear PDEs,
