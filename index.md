@@ -11,15 +11,12 @@ Numerical Analysis Group at the University of Oxford.
 I work on the numerical
 solution of partial differential equations, with a particular focus on
 
- - high-order spectral/hp-finite element methods,
- - topology optimization,
+- nonsmooth constrained infinite-dimensional problems,
+- topology optimization,
  - quasi-variational inequalities,
- - computing multiple solutions of nonlinear PDEs.
-
-I lead the development of
-[fir3dab](https://github.com/ioannisPApapadopoulos/fir3dab), and regularly
-commit to Julia packages in
-[JuliaApproximation](https://github.com/JuliaApproximation).
+ - computing multiple solutions of nonlinear PDEs,
+ - high-order spectral/hp-finite element methods.
+ 
 
 I have collected a number of self-contained codes in MATLAB, Python, and Julia of deflation techniques for computing multiple solutions of nonlinear discretized PDEs/systems in a [Github repository](https://github.com/ioannisPApapadopoulos/Deflation).
 
@@ -49,7 +46,7 @@ I have collected a number of self-contained codes in MATLAB, Python, and Julia o
 
 <h2 id="news">News</h2>
 
-<p> May-Sep 2026: I am supervising two MSc dissertations on "Large scale topology optimization via preconditioning" and the "numerical simulation of elastic bouncy objects".
+<p> May-Sep 2026: I am supervising two MSc dissertations on "Large-scale Topology Optimization via Preconditioning" and the "Numerical Simulation of Elastic Bouncy Objects".
 
 <p> 17 Feb 2026: I was invited as a speaker in the <a href="https://web.mat.bham.ac.uk/D.A.Craven/seminars/ona-seminars.html">Optimisation and Numerical Analysis Seminar</a> at the University of Birmingham where I spoke on "The latent variable proximal point algorithm for variational problems with inequality constraints". <a href="{{ "/files/lvpp.pdf" | absolute_url }}">Click for slides</a>.</p>
 
