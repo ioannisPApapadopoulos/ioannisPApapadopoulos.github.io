@@ -39,7 +39,7 @@ I have collected a number of self-contained codes in MATLAB, Python, and Julia o
 
 <h2 id="news">News</h2>
 
-<p>30 Jul 2026: Primal-dual active set strategies are an extremely successful class of solvers for optimization problems with pointwise constraints. Yet they deliver mesh-dependent iteration counts when applied to discretizations of obstacle and Signorini problems. Together with my co-author, Michael Hintermüller, we have submitted a paper that thoroughly investigates and analyses this behaviour titled "Mesh-dependent iteration count growth in primal-dual active set strategies". (<a href="http://arxiv.org/abs/2607.26622">arXiv</a>.</p>
+<p>30 Jul 2026: Primal-dual active set strategies are an extremely successful class of solvers for optimization problems with pointwise constraints. Yet they deliver mesh-dependent iteration counts when applied to discretizations of obstacle and Signorini problems. Together with my co-author, Michael Hintermüller, we have submitted a paper that thoroughly investigates and analyses this behaviour titled "Mesh-dependent iteration count growth in primal-dual active set strategies". (<a href="http://arxiv.org/abs/2607.26622">arXiv</a>).</p>
 
 <p> 23 Jul 2026: I gave a talk in the <a href="https://www.tuwien.at/en/mg/asc/event/cmam2026">CMAM 2026</a> conference, in Vienna, as part of the "Energy reduction methods and adaptivity for nonlinear PDEs" minisymposium. The talk was titled "The latent variable proximal point algorithm for variational problems with inequality constraints".</p>
 
