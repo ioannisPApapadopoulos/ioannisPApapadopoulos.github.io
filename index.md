@@ -43,11 +43,11 @@ I have collected a number of self-contained codes in MATLAB, Python, and Julia o
 
 <p> 23 Jul 2026: I gave a talk in the <a href="https://www.tuwien.at/en/mg/asc/event/cmam2026">CMAM 2026</a> conference, in Vienna, as part of the "Energy reduction methods and adaptivity for nonlinear PDEs" minisymposium. The talk was titled "The latent variable proximal point algorithm for variational problems with inequality constraints".</p>
 
-<p> 11 Jul 2026: I gave a talk in the <a href="https://focm2026.univie.ac.at/">FoCM 2026</a> conference, in Vienna, as part of the <a href="https://focm2026.univie.ac.at/?page_id=1494">Special Functions and Orthogonal Polynomials</a> workshop. The talk was titled ""A sparse hierarchical hp-finite element method on disks and annuli".</p>
+<p> 11 Jul 2026: I gave a talk in the <a href="https://focm2026.univie.ac.at/">FoCM 2026</a> conference, in Vienna, as part of the <a href="https://focm2026.univie.ac.at/?page_id=1494">Special Functions and Orthogonal Polynomials</a> workshop. The talk was titled "A sparse hierarchical hp-finite element method on disks and annuli".</p>
 
 <p> 8 Jun 2026: I gave an invited talk in the CompMath seminar at the University of Groningen on "The latent variable proximal point algorithm for variational problems with inequality constraints".</p>
 
-<p> 3 Jun 2026: I gave an invitet talk in the  colloquium for the <a href="https://casa.win.tue.nl/events/">Centre for Analysis, Scientific computing and Applications</a> at the Eindhoven University of Technology on "The latent variable proximal point algorithm for variational problems with inequality constraints".</p>
+<p> 3 Jun 2026: I gave an invited talk in the  colloquium for the <a href="https://casa.win.tue.nl/events/">Centre for Analysis, Scientific computing and Applications</a> at the Eindhoven University of Technology on "The latent variable proximal point algorithm for variational problems with inequality constraints".</p>
 
 <p> May-Sep 2026: I am supervising two MSc dissertations on "Large-scale Topology Optimization via Preconditioning" and the "Numerical Simulation of Elastic Bouncy Objects".
 
