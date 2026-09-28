@@ -33,9 +33,9 @@ I have collected a number of self-contained codes in MATLAB, Python, and Julia o
  <!-- - London Mathematical Society undergraduate research bursary (2015). -->
 
 
-<!-- <h2 id="forthcoming">Forthcoming</h2> -->
+<h2 id="forthcoming">Forthcoming</h2>
 
-
+<p>5 Oct 2026: I will give a talk in the <a href="https://cigmo.github.io/seminars/">CIGMO Seminar</a> on "Mesh-dependent iteration count growth in primal-dual active set strategies".</p>
 
 <h2 id="news">News</h2>
 
