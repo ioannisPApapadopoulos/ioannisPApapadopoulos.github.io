@@ -39,6 +39,8 @@ I have collected a number of self-contained codes in MATLAB, Python, and Julia o
 
 <h2 id="news">News</h2>
 
+<p>12 Oct 2026: Together with Pablo Brubeck, I am delighted to introduce a new block preconditioner for the proximal Galerkin algorithm applied to variational inequalities. The iteration counts are mesh and discretization degree robust on general meshes on all levels: the number of proximal steps, Newton iterations and Krylov iterations. We show these are effective on obstacle, Signorini and strain-constrained elasticity problems, including a nearly-incompressible Signorini problem in 3D. The preprint is titled "Preconditioning proximal Galerkin: mesh and degree robust solvers for variational inequalities". (<a href="https://arxiv.org/abs/2610.13591">arXiv</a>).</p>
+
 <p>5 Oct 2026: I gave a talk in the <a href="https://cigmo.github.io/seminars/">CIGMO Seminar</a> on "Mesh-dependent iteration count growth in primal-dual active set strategies". <a href="{{ "/files/PDAS.pdf" | absolute_url }}">Click for slides</a>.</p>
 
 <p>30 Jul 2026: Primal-dual active set strategies are an extremely successful class of solvers for optimization problems with pointwise constraints. Yet they deliver mesh-dependent iteration counts when applied to discretizations of obstacle and Signorini problems. Together with my co-author, Michael Hintermüller, we have submitted a paper that thoroughly investigates and analyses this behaviour titled "Mesh-dependent iteration count growth in primal-dual active set strategies". (<a href="http://arxiv.org/abs/2607.26622">arXiv</a>).</p>
